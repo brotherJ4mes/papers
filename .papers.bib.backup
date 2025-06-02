@@ -1,0 +1,1736 @@
+@misc{10.1175/jhm-d-20-,
+ doi = {10.1175/jhm-d-20-},
+ file = {},
+ url = {http://dx.doi.org/10.1175/jhm-d-20-}
+}
+
+@incollection{10.14321/j.ctt7ztcxv.28,
+ doi = {10.14321/j.ctt7ztcxv.28},
+ file = {},
+ title = {SEAWAY HERETICS},
+ url = {https://doi.org/10.14321/j.ctt7ztcxv.28},
+ year = {2011}
+}
+
+@misc{10.3850/978-981-09-0750-1,
+ doi = {10.3850/978-981-09-0750-1},
+ file = {},
+ url = {http://dx.doi.org/10.3850/978-981-09-0750-1}
+}
+
+@article{abdelhady2025,
+ author = {Abdelhady, Hazem U. and Troy, Cary D.},
+ doi = {10.1016/j.jhydrol.2024.132445},
+ file = {:/home/kessler/docs/papers/abdelhady_and_troy_2025_deep-learning-approach-modeling-hindcasting.pdf:pdf},
+ journal = {Journal of Hydrology},
+ pages = {132445},
+ title = {A deep learning approach for modeling and hindcasting Lake Michigan ice cover},
+ url = {https://doi.org/10.1016/j.jhydrol.2024.132445},
+ volume = {649},
+ year = {2025}
+}
+
+@article{anderson2018,
+ author = {Anderson, Eric J. and Fujisaki-Manome, Ayumi and Kessler, James and Lang, Gregory A. and Chu, Philip Y. and Kelley, John G.W. and Chen, Yi and Wang, Jia},
+ doi = {10.3390/jmse6040123},
+ file = {:/home/kessler/docs/papers/anderson_et_al_2018_forecasting-next-generation-great-lakes.pdf:pdf},
+ journal = {Journal of Marine Science and Engineering},
+ number = {4},
+ pages = {123},
+ title = {Ice Forecasting in the Next-Generation Great Lakes Operational Forecast System (GLOFS)},
+ url = {https://doi.org/10.3390/jmse6040123},
+ volume = {6},
+ year = {2018}
+}
+
+@article{anderson2021,
+ author = {Anderson, Eric J. and Stow, Craig A. and Gronewold, Andrew D. and Mason, Lacey A. and McCormick, Michael J. and Qian, Song S. and Ruberg, Steven A. and Beadle, Kyle and Constant, Stephen A. and Hawley, Nathan},
+ doi = {10.1038/s41467-021-21971-1},
+ file = {:/home/kessler/docs/papers/anderson_et_al_2021_seasonal-overturn-stratification-changes-drive.pdf:pdf},
+ journal = {Nature Communications},
+ number = {1},
+ title = {Seasonal overturn and stratification changes drive deep-water warming in one of Earth’s largest lakes},
+ url = {https://doi.org/10.1038/s41467-021-21971-1},
+ volume = {12},
+ year = {2021}
+}
+
+@article{anderson2024,
+ author = {Anderson, Eric J and Tillotson, Brooke and Stow, Craig A},
+ doi = {10.1088/1748-9326/ad8ee0},
+ file = {:/home/kessler/docs/papers/anderson_et_al_2024_indications-changing-winter-through-lens.pdf:pdf},
+ journal = {Environmental Research Letters},
+ number = {12},
+ pages = {124060},
+ title = {Indications of a changing winter through the lens of lake mixing in Earth’s largest freshwater system},
+ url = {https://doi.org/10.1088/1748-9326/ad8ee0},
+ volume = {19},
+ year = {2024}
+}
+
+@article{assel2004,
+ author = {Assel, Raymond and Drobot, Sheldon and Croley, Thomas E.},
+ doi = {10.1175/1525-7541(2004)005<0713:idglic>2.0.co;2},
+ file = {:/home/kessler/docs/papers/assel_et_al_2004_improving-great-lakes-cover-outlooks.pdf:pdf},
+ journal = {Journal of Hydrometeorology},
+ number = {4},
+ pages = {713-717},
+ title = {Improving 30-Day Great Lakes Ice Cover Outlooks*},
+ url = {https://doi.org/10.1175/1525-7541(2004)005<0713:idglic>2.0.co;2},
+ volume = {5},
+ year = {2004}
+}
+
+@article{assel2004b,
+ author = {Assel, Raymond A. and Quinn, Frank H. and Sellinger, Cynthia E.},
+ doi = {10.1175/bams-85-8-1143},
+ file = {:/home/kessler/docs/papers/assel_et_al_2004_hydroclimatic-factors-recent-record-drop.pdf:pdf},
+ journal = {Bulletin of the American Meteorological Society},
+ number = {8},
+ pages = {1143-1152},
+ title = {Hydroclimatic Factors of the Recent Record Drop in Laurentian Great Lakes Water Levels},
+ url = {https://doi.org/10.1175/bams-85-8-1143},
+ volume = {85},
+ year = {2004}
+}
+
+@article{austin2007,
+ author = {Austin, Jay A. and Colman, Steven M.},
+ doi = {10.1029/2006gl029021},
+ file = {:/home/kessler/docs/papers/austin_and_colman_2007_lake-superior-summer-water-temperatures.pdf:pdf},
+ journal = {Geophysical Research Letters},
+ number = {6},
+ title = {Lake Superior summer water temperatures are increasing more rapidly than regional air temperatures: A positive ice‐albedo feedback},
+ url = {https://doi.org/10.1029/2006gl029021},
+ volume = {34},
+ year = {2007}
+}
+
+@article{austin2019,
+ author = {Austin, Jay A.},
+ doi = {10.1002/lno.11175},
+ file = {:/home/kessler/docs/papers/austin_2019_observations-radiatively-driven-convection-deep.pdf:pdf},
+ journal = {Limnology and Oceanography},
+ number = {5},
+ pages = {2152-2160},
+ title = {Observations of radiatively driven convection in a deep lake},
+ url = {https://doi.org/10.1002/lno.11175},
+ volume = {64},
+ year = {2019}
+}
+
+@article{austin2023,
+ author = {Austin, Jay and Elmer, Cassandra},
+ doi = {10.1002/lol2.10293},
+ file = {:/home/kessler/docs/papers/austin_and_elmer_2023_archive-lake-superior-temperature-current.pdf:pdf},
+ journal = {Limnology and Oceanography Letters},
+ number = {4},
+ pages = {595-602},
+ title = {An archive of Lake Superior temperature and current measurements, 2005–2020},
+ url = {https://doi.org/10.1002/lol2.10293},
+ volume = {8},
+ year = {2023}
+}
+
+@article{austin2025,
+ author = {Austin, Jay A. and Anderson, Eric J. and Gronewold, Andrew D. and Ruberg, Steven A. and Stow, Craig A. and Wells, Mathew G.},
+ doi = {10.1016/j.jglr.2025.102550},
+ file = {:/home/kessler/docs/papers/austin_et_al_2025_winter-thermal-structure-across-laurentian.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {3},
+ pages = {102550},
+ title = {Winter thermal structure across the Laurentian Great Lakes},
+ url = {https://doi.org/10.1016/j.jglr.2025.102550},
+ volume = {51},
+ year = {2025}
+}
+
+@article{bai2012,
+ author = {Bai, Xuezhi and Wang, Jia and Sellinger, Cynthia and Clites, Anne and Assel, Raymond},
+ doi = {10.1029/2010jc006932},
+ file = {:/home/kessler/docs/papers/bai_et_al_2012_interannual-variability-great-lakes-cover.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C3},
+ title = {Interannual variability of Great Lakes ice cover and its relationship to NAO and ENSO},
+ url = {https://doi.org/10.1029/2010jc006932},
+ volume = {117},
+ year = {2012}
+}
+
+@article{bai2013,
+ author = {Bai, Xuezhi and Wang, Jia and Schwab, David J. and Yang, Yi and Luo, Lin and Leshkevich, George A. and Liu, Songzhi},
+ doi = {10.1016/j.ocemod.2013.02.003},
+ file = {:/home/kessler/docs/papers/bai_et_al_2013_modeling-1993-2008-climatology-seasonal.pdf:pdf},
+ journal = {Ocean Modelling},
+ pages = {40-63},
+ title = {Modeling 1993–2008 climatology of seasonal general circulation and thermal structure in the Great Lakes using FVCOM},
+ url = {https://doi.org/10.1016/j.ocemod.2013.02.003},
+ volume = {65},
+ year = {2013}
+}
+
+@article{bai2020,
+ author = {Bai, Peng and Wang, Jia and Chu, Philip and Hawley, Nathan and Fujisaki-Manome, Ayumi and Kessler, James and Lofgren, Brent M. and Beletsky, Dmitry and Anderson, Eric J. and Li, Yaru},
+ doi = {10.1007/s10236-020-01379-z},
+ file = {:/home/kessler/docs/papers/bai_et_al_2020_modeling-attenuated-waves-great-lakes.pdf:pdf},
+ journal = {Ocean Dynamics},
+ number = {7},
+ pages = {991-1003},
+ title = {Modeling the ice-attenuated waves in the Great Lakes},
+ url = {https://doi.org/10.1007/s10236-020-01379-z},
+ volume = {70},
+ year = {2020}
+}
+
+@article{beletsky1997,
+ author = {Beletsky, Dmitry and O’Connor, William P. and Schwab, David J. and Dietrich, David E.},
+ doi = {10.1175/1520-0485(1997)027<1197:nsoikw>2.0.co;2},
+ file = {:/home/kessler/docs/papers/beletsky_et_al_1997_numerical-simulation-internal-kelvin-waves.pdf:pdf},
+ journal = {Journal of Physical Oceanography},
+ number = {7},
+ pages = {1197-1215},
+ title = {Numerical Simulation of Internal Kelvin Waves and Coastal Upwelling Fronts*},
+ url = {https://doi.org/10.1175/1520-0485(1997)027<1197:nsoikw>2.0.co;2},
+ volume = {27},
+ year = {1997}
+}
+
+@article{beletsky1999,
+ author = {Beletsky, Dmitry and Saylor, James H. and Schwab, David J.},
+ doi = {10.1016/s0380-1330(99)70718-5},
+ file = {:/home/kessler/docs/papers/beletsky_et_al_1999_mean-circulation-great-lakes.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {1},
+ pages = {78-93},
+ title = {Mean Circulation in the Great Lakes},
+ url = {https://doi.org/10.1016/s0380-1330(99)70718-5},
+ volume = {25},
+ year = {1999}
+}
+
+@article{beletsky2006,
+ author = {Beletsky, Dmitry and Schwab, David and McCormick, Michael},
+ doi = {10.1029/2005jc003222},
+ file = {:/home/kessler/docs/papers/beletsky_et_al_2006_modeling-1998-2003-summer-circulation.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C10},
+ title = {Modeling the 1998–2003 summer circulation and thermal structure in Lake Michigan},
+ url = {https://doi.org/10.1029/2005jc003222},
+ volume = {111},
+ year = {2006}
+}
+
+@article{bennington2010,
+ author = {Bennington, Val and McKinley, Galen A. and Kimura, Nobuaki and Wu, Chin H.},
+ doi = {10.1029/2010jc006261},
+ file = {:/home/kessler/docs/papers/bennington_et_al_2010_general-circulation-lake-superior-mean.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C12},
+ title = {General circulation of Lake Superior: Mean, variability, and trends from 1979 to 2006},
+ url = {https://doi.org/10.1029/2010jc006261},
+ volume = {115},
+ year = {2010}
+}
+
+@article{blanken2011,
+ author = {Blanken, Peter D. and Spence, Christopher and Hedstrom, Newell and Lenters, John D.},
+ doi = {10.1016/j.jglr.2011.08.009},
+ file = {:/home/kessler/docs/papers/blanken_et_al_2011_evaporation-from-lake-superior-physical.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {4},
+ pages = {707-716},
+ title = {Evaporation from Lake Superior: 1. Physical controls and processes},
+ url = {https://doi.org/10.1016/j.jglr.2011.08.009},
+ volume = {37},
+ year = {2011}
+}
+
+@article{bosse2024,
+ author = {Bosse, Karl R. and Fahnenstiel, Gary L. and Buelo, Cal D. and Pawlowski, Matthew B. and Scofield, Anne E. and Hinchey, Elizabeth K. and Sayers, Michael J.},
+ doi = {10.3390/w16141944},
+ file = {:/home/kessler/docs/papers/bosse_et_al_2024_harmful-algal-blooms-increasing-great.pdf:pdf},
+ journal = {Water},
+ number = {14},
+ pages = {1944},
+ title = {Are Harmful Algal Blooms Increasing in the Great Lakes?},
+ url = {https://doi.org/10.3390/w16141944},
+ volume = {16},
+ year = {2024}
+}
+
+@article{cannon2019,
+ author = {Cannon, D. J. and Troy, C. D. and Liao, Q. and Bootsma, H. A.},
+ doi = {10.1029/2019gl082916},
+ file = {:/home/kessler/docs/papers/cannon_et_al_2019_free-radiative-convection-drives-spring.pdf:pdf},
+ journal = {Geophysical Research Letters},
+ number = {12},
+ pages = {6811-6820},
+ title = {Ice‐Free Radiative Convection Drives Spring Mixing in a Large Lake},
+ url = {https://doi.org/10.1029/2019gl082916},
+ volume = {46},
+ year = {2019}
+}
+
+@article{carpenter2006,
+ author = {Carpenter, S. R. and Brock, W. A.},
+ doi = {10.1111/j.1461-0248.2005.00877.x},
+ file = {:/home/kessler/docs/papers/carpenter_and_brock_2006_rising-variance-leading-indicator-ecological.pdf:pdf},
+ journal = {Ecology Letters},
+ number = {3},
+ pages = {311-318},
+ title = {Rising variance: a leading indicator of ecological transition},
+ url = {https://doi.org/10.1111/j.1461-0248.2005.00877.x},
+ volume = {9},
+ year = {2006}
+}
+
+@article{charusombat2018,
+ author = {Charusombat, Umarporn and Fujisaki-Manome, Ayumi and Gronewold, Andrew D. and Lofgren, Brent M. and Anderson, Eric J. and Blanken, Peter D. and Spence, Christopher and Lenters, John D. and Xiao, Chuliang and Fitzpatrick, Lindsay E. and Cutrell, Gregory},
+ doi = {10.5194/hess-22-5559-2018},
+ file = {:/home/kessler/docs/papers/charusombat_et_al_2018_evaluating-improving-modeled-turbulent-heat.pdf:pdf},
+ journal = {Hydrology and Earth System Sciences},
+ number = {10},
+ pages = {5559-5578},
+ title = {Evaluating and improving modeled turbulent heat fluxes  across the North American Great Lakes},
+ url = {https://doi.org/10.5194/hess-22-5559-2018},
+ volume = {22},
+ year = {2018}
+}
+
+@article{choi2020,
+ author = {Choi, Ilseung and Okada, Masaya and Ito, Tomoki},
+ doi = {10.1182/blood-2020-138386},
+ file = {:/home/kessler/docs/papers/choi_et_al_2020_yittrium-ibritumomab-tiuxetan-zevalin-treatment.pdf:pdf},
+ journal = {Blood},
+ number = {Supplement 1},
+ pages = {9-10},
+ title = {Yittrium 90 Ibritumomab Tiuxetan (Zevalin®) in the Treatment of Relapsed or Refractory Indolent B-Cell Non-Hodgkin Lymphoma; Integrated Analysis of Three Japanese Institution's Experience with Improvement Trend of the Long-Term Responses over a 10 Year Study Period},
+ url = {https://doi.org/10.1182/blood-2020-138386},
+ volume = {136},
+ year = {2020}
+}
+
+@article{cowles2008,
+ author = {Cowles, Geoffrey W.},
+ doi = {10.1177/1094342007083804},
+ file = {:/home/kessler/docs/papers/cowles_2008_parallelization-fvcom-coastal-ocean-model.pdf:pdf},
+ journal = {The International Journal of High Performance Computing Applications},
+ number = {2},
+ pages = {177-193},
+ title = {Parallelization of the Fvcom Coastal Ocean Model},
+ url = {https://doi.org/10.1177/1094342007083804},
+ volume = {22},
+ year = {2008}
+}
+
+@article{croley1989,
+ author = {Croley, Thomas E.},
+ doi = {10.1029/wr025i005p00781},
+ file = {:/home/kessler/docs/papers/croley_1989_verifiable-evaporation-modeling-laurentian-great.pdf:pdf},
+ journal = {Water Resources Research},
+ number = {5},
+ pages = {781-792},
+ title = {Verifiable evaporation modeling on the Laurentian Great Lakes},
+ url = {https://doi.org/10.1029/wr025i005p00781},
+ volume = {25},
+ year = {1989}
+}
+
+@article{croley1994,
+ author = {Croley, Thomas E. and Assel, Raymond A.},
+ doi = {10.1029/93wr03415},
+ file = {:/home/kessler/docs/papers/croley_and_assel_1994_dimensional-thermodynamics-model-laurentian-great.pdf:pdf},
+ journal = {Water Resources Research},
+ number = {3},
+ pages = {625-639},
+ title = {A one‐dimensional ice thermodynamics model for the Laurentian Great Lakes},
+ url = {https://doi.org/10.1029/93wr03415},
+ volume = {30},
+ year = {1994}
+}
+
+@article{del-giudice2018,
+ author = {Del Giudice, Dario and Zhou, Yuntao and Sinha, Eva and Michalak, Anna M.},
+ doi = {10.1021/acs.est.7b04730},
+ file = {:/home/kessler/docs/papers/del-giudice_et_al_2018_long-term-phosphorus-loading-springtime.pdf:pdf},
+ journal = {Environmental Science &amp; Technology},
+ number = {4},
+ pages = {2046-2054},
+ title = {Long-Term Phosphorus Loading and Springtime Temperatures Explain Interannual Variability of Hypoxia in a Large Temperate Lake},
+ url = {https://doi.org/10.1021/acs.est.7b04730},
+ volume = {52},
+ year = {2018}
+}
+
+@article{donlon2007,
+ author = {Donlon, Craig and Robinson, I and Casey, KS and Vazquez-Cuervo, J and Armstrong, E and Arino, O and Gentemann, C and May, D and LeBorgne, P and Pioll{\'e}, J and others},
+ file = {:/home/kessler/docs/papers/donlon_et_al_2007_global-ocean-data-assimilation-experiment.pdf:pdf},
+ journal = {Bulletin of the American Meteorological Society},
+ number = {8},
+ pages = {1197--1214},
+ publisher = {American Meteorological Society},
+ title = {The global ocean data assimilation experiment high-resolution sea surface temperature pilot project},
+ volume = {88},
+ year = {2007}
+}
+
+@misc{duncan2019,
+ author = {Duncan, Greg and Fox, Nathan and Yoshikawa, Hirokazu and Magnuson, Katherine and Noble, Kimberly and Gennetian, Lisa},
+ doi = {10.1257/rct.3262-11.0},
+ file = {},
+ title = {Baby's First Years},
+ url = {https://doi.org/10.1257/rct.3262-11.0},
+ year = {2019}
+}
+
+@article{duran2018,
+ author = {Duran, R. and Beron-Vera, F. J. and Olascoaga, M. J.},
+ doi = {10.1038/s41598-018-23121-y},
+ file = {:/home/kessler/docs/papers/duran_et_al_2018_extracting-quasi-steady-lagrangian-transport.pdf:pdf},
+ journal = {Scientific Reports},
+ number = {1},
+ title = {Extracting quasi-steady Lagrangian transport patterns from the ocean circulation: An application to the Gulf of Mexico},
+ url = {https://doi.org/10.1038/s41598-018-23121-y},
+ volume = {8},
+ year = {2018}
+}
+
+@article{fairall1996,
+ author = {Fairall, C. W. and Bradley, E. F. and Rogers, D. P. and Edson, J. B. and Young, G. S.},
+ doi = {10.1029/95jc03205},
+ file = {:/home/kessler/docs/papers/fairall_et_al_1996_bulk-parameterization-fluxes-tropical-ocean.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C2},
+ pages = {3747-3764},
+ title = {Bulk parameterization of air‐sea fluxes for Tropical Ocean‐Global Atmosphere Coupled‐Ocean Atmosphere Response Experiment},
+ url = {https://doi.org/10.1029/95jc03205},
+ volume = {101},
+ year = {1996}
+}
+
+@article{feldman2015,
+ author = {Feldman, D. R. and Collins, W. D. and Gero, P. J. and Torn, M. S. and Mlawer, E. J. and Shippert, T. R.},
+ doi = {10.1038/nature14240},
+ file = {:/home/kessler/docs/papers/feldman_et_al_2015_observational-determination-surface-radiative-forcing.pdf:pdf},
+ journal = {Nature},
+ number = {7543},
+ pages = {339-343},
+ title = {Observational determination of surface radiative forcing by CO2 from 2000 to 2010},
+ url = {https://doi.org/10.1038/nature14240},
+ volume = {519},
+ year = {2015}
+}
+
+@article{fernandez2000,
+ author = {Fernandez, D.M. and Meadows, L.A. and Vesecky, J.F. and Teague, C.C. and Paduan, J.D. and Hansen, P.},
+ doi = {10.1109/48.895353},
+ file = {:/home/kessler/docs/papers/fernandez_et_al_2000_surface-current-measurements-radar-freshwater.pdf:pdf},
+ journal = {IEEE Journal of Oceanic Engineering},
+ number = {4},
+ pages = {458-471},
+ title = {Surface current measurements by HF radar in freshwater lakes},
+ url = {https://doi.org/10.1109/48.895353},
+ volume = {25},
+ year = {2000}
+}
+
+@article{fitzpatrick2023,
+ author = {Fitzpatrick, Lindsay and Titze, Daniel and Anderson, Eric J. and Beletsky, Dmitry and Kelley, John G. W.},
+ doi = {10.1007/s10236-023-01559-7},
+ file = {:/home/kessler/docs/papers/fitzpatrick_et_al_2023_simulating-flood-events-twin-ports.pdf:pdf},
+ journal = {Ocean Dynamics},
+ number = {7},
+ pages = {433-447},
+ title = {Simulating flood events at the Twin Ports of Duluth-Superior using a linked hydrologic-hydrodynamic framework},
+ url = {https://doi.org/10.1007/s10236-023-01559-7},
+ volume = {73},
+ year = {2023}
+}
+
+@article{flanner2007,
+ author = {Flanner, Mark G. and Zender, Charles S. and Randerson, James T. and Rasch, Philip J.},
+ doi = {10.1029/2006jd008003},
+ file = {:/home/kessler/docs/papers/flanner_et_al_2007_present-climate-forcing-response-from.pdf:pdf},
+ journal = {Journal of Geophysical Research: Atmospheres},
+ number = {D11},
+ title = {Present‐day climate forcing and response from black carbon in snow},
+ url = {https://doi.org/10.1029/2006jd008003},
+ volume = {112},
+ year = {2007}
+}
+
+@article{flood2021,
+ author = {Flood, Bryan and Wells, Mathew and Dunlop, Erin and Young, Joelle},
+ doi = {10.1016/j.jglr.2021.06.010},
+ file = {:/home/kessler/docs/papers/Schwab-1977-Limnology_and_Oceanography.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {5},
+ pages = {1386-1399},
+ title = {Vertical oscillations of the thermocline caused by internal waves modify coldwater pelagic fish distribution: Results from a large stratified lake},
+ url = {https://doi.org/10.1016/j.jglr.2021.06.010},
+ volume = {47},
+ year = {2021}
+}
+
+@article{free2013,
+ author = {Free, Melissa and Sun, Bomin},
+ doi = {10.1175/jtech-d-13-00026.1},
+ file = {:/home/kessler/docs/papers/free_and_sun_2013_time-varying-biases-total-cloud.pdf:pdf},
+ journal = {Journal of Atmospheric and Oceanic Technology},
+ number = {12},
+ pages = {2838-2849},
+ title = {Time-Varying Biases in U.S. Total Cloud Cover Data},
+ url = {https://doi.org/10.1175/jtech-d-13-00026.1},
+ volume = {30},
+ year = {2013}
+}
+
+@article{fujisaki-manome2017,
+ author = {Fujisaki-Manome, Ayumi and Fitzpatrick, Lindsay E. and Gronewold, Andrew D. and Anderson, Eric J. and Lofgren, Brent M. and Spence, Christopher and Chen, Jiquan and Shao, Changliang and Wright, David M. and Xiao, Chuliang},
+ doi = {10.1175/jhm-d-17-0062.1},
+ file = {},
+ journal = {Journal of Hydrometeorology},
+ number = {12},
+ pages = {3145-3163},
+ title = {Turbulent Heat Fluxes during an Extreme Lake-Effect Snow Event},
+ url = {https://doi.org/10.1175/jhm-d-17-0062.1},
+ volume = {18},
+ year = {2017}
+}
+
+@article{fujisaki2013,
+ author = {Fujisaki, Ayumi and Wang, Jia and Bai, Xuezhi and Leshkevich, George and Lofgren, Brent},
+ doi = {10.1002/jgrc.20312},
+ file = {},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {9},
+ pages = {4286-4304},
+ title = {Model‐simulated interannual variability of Lake Erie ice cover, circulation, and thermal structure in response to atmospheric forcing, 2003–2012},
+ url = {https://doi.org/10.1002/jgrc.20312},
+ volume = {118},
+ year = {2013}
+}
+
+@misc{gasset2021,
+ author = {Gasset, Nicolas and Fortin, Vincent and Dimitrijevic, Milena and Carrera, Marco and Bilodeau, Bernard and Muncaster, Ryan and Gaborit, Étienne and Roy, Guy and Pentcheva, Nedka and Bulat, Maxim and Wang, Xihong and Pavlovic, Radenko and Lespinas, Franck and Khedhaouiria, Dikra},
+ doi = {10.5194/hess-2021-41},
+ file = {:/home/kessler/docs/papers/gasset_et_al_2021_north-american-precipitation-land-surface.pdf:pdf},
+ title = {A 10 km North American Precipitation and Land Surface
+Reanalysis Based on the GEM Atmospheric Model},
+ url = {https://doi.org/10.5194/hess-2021-41},
+ year = {2021}
+}
+
+@article{gladkova2015,
+ author = {Gladkova, I. and Kihai, Y. and Ignatov, A. and Shahriar, F. and Petrenko, B.},
+ doi = {10.1016/j.rse.2015.01.003},
+ file = {:/home/kessler/docs/papers/gladkova_et_al_2015_pattern-test-acspo-clear-mask.pdf:pdf},
+ journal = {Remote Sensing of Environment},
+ pages = {87-98},
+ title = {SST Pattern Test in ACSPO clear-sky mask for VIIRS},
+ url = {https://doi.org/10.1016/j.rse.2015.01.003},
+ volume = {160},
+ year = {2015}
+}
+
+@article{gordon2005,
+ author = {Gordon, Howard R.},
+ doi = {10.1364/ao.44.000241},
+ file = {:/home/kessler/docs/papers/gordon_2005_normalized-water-leaving-radiance-revisiting.pdf:pdf},
+ journal = {Applied Optics},
+ number = {2},
+ pages = {241},
+ title = {Normalized water-leaving radiance: revisiting the influence of surface roughness},
+ url = {https://doi.org/10.1364/ao.44.000241},
+ volume = {44},
+ year = {2005}
+}
+
+@article{grachev2007,
+ author = {Grachev, Andrey A. and Andreas, Edgar L and Fairall, Christopher W. and Guest, Peter S. and Persson, P. Ola G.},
+ doi = {10.1007/s10546-007-9177-6},
+ file = {:/home/kessler/docs/papers/grachev_et_al_2007_sheba-flux-profile-relationships-stable.pdf:pdf},
+ journal = {Boundary-Layer Meteorology},
+ number = {3},
+ pages = {315-333},
+ title = {SHEBA flux–profile relationships in the stable atmospheric boundary layer},
+ url = {https://doi.org/10.1007/s10546-007-9177-6},
+ volume = {124},
+ year = {2007}
+}
+
+@article{gronewold2011,
+ author = {Gronewold, Andrew D. and Clites, Anne H. and Hunter, Timothy S. and Stow, Craig A.},
+ doi = {10.1016/j.jglr.2011.06.010},
+ file = {:/home/kessler/docs/papers/gronewold_et_al_2011_appraisal-great-lakes-advanced-hydrologic.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {3},
+ pages = {577-583},
+ title = {An appraisal of the Great Lakes advanced hydrologic prediction system},
+ url = {https://doi.org/10.1016/j.jglr.2011.06.010},
+ volume = {37},
+ year = {2011}
+}
+
+@article{gronewold2015,
+ author = {Gronewold, A. D. and Anderson, E. J. and Lofgren, B. and Blanken, P. D. and Wang, J. and Smith, J. and Hunter, T. and Lang, G. and Stow, C. A. and Beletsky, D. and Bratton, J.},
+ doi = {10.1002/2015gl063799},
+ file = {:/home/kessler/docs/papers/gronewold_et_al_2015_impacts-extreme-2013-2014-winter.pdf:pdf},
+ journal = {Geophysical Research Letters},
+ number = {9},
+ pages = {3364-3370},
+ title = {Impacts of extreme 2013–2014 winter conditions on Lake Michigan's fall heat content, surface temperature, and evaporation},
+ url = {https://doi.org/10.1002/2015gl063799},
+ volume = {42},
+ year = {2015}
+}
+
+@article{gronewold2019,
+ author = {Gronewold, A. D. and Anderson, E. J. and Smith, J.},
+ doi = {10.1029/2019gl082289},
+ file = {:/home/kessler/docs/papers/gronewold_et_al_2019_evaluating-operational-hydrodynamic-models-real.pdf:pdf},
+ journal = {Geophysical Research Letters},
+ number = {6},
+ pages = {3263-3269},
+ title = {Evaluating Operational Hydrodynamic Models for Real‐time Simulation of Evaporation From Large Lakes},
+ url = {https://doi.org/10.1029/2019gl082289},
+ volume = {46},
+ year = {2019}
+}
+
+@article{gronewold2024,
+ author = {Gronewold, Andrew and Bednar, Jenna and Cort, Marjorie and Rueda, Vianey and Moore, Michael and Allan, Jon},
+ doi = {10.1038/s41467-024-51456-w},
+ file = {:/home/kessler/docs/papers/gronewold_et_al_2024_continental-transboundary-compacts-hold-water.pdf:pdf},
+ journal = {Nature Communications},
+ number = {1},
+ title = {Can continental transboundary compacts hold water?},
+ url = {https://doi.org/10.1038/s41467-024-51456-w},
+ volume = {15},
+ year = {2024}
+}
+
+@article{grunert2018,
+ author = {Grunert, Brice K. and Brunner, Shelby L. and Hamidi, Sajad A. and Bravo, Hector R. and Klump, J. Val},
+ doi = {10.1016/j.jglr.2018.07.009},
+ file = {:/home/kessler/docs/papers/grunert_et_al_2018_quantifying-influence-cold-water-intrusions.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {5},
+ pages = {851-863},
+ title = {Quantifying the influence of cold water intrusions in a shallow, coastal system across contrasting years: Green Bay, Lake Michigan},
+ url = {https://doi.org/10.1016/j.jglr.2018.07.009},
+ volume = {44},
+ year = {2018}
+}
+
+@article{gu2015,
+ author = {Gu, Hongping and Jin, Jiming and Wu, Yihua and Ek, Michael B. and Subin, Zachary M.},
+ doi = {10.1007/s10584-013-0978-y},
+ file = {:/home/kessler/docs/papers/gu_et_al_2015_calibration-validation-lake-surface-temperature.pdf:pdf},
+ journal = {Climatic Change},
+ number = {3-4},
+ pages = {471-483},
+ title = {Calibration and validation of lake surface temperature simulations with the coupled WRF-lake model},
+ url = {https://doi.org/10.1007/s10584-013-0978-y},
+ volume = {129},
+ year = {2015}
+}
+
+@article{gula2012,
+ author = {Gula, Jonathan and Peltier, W. Richard},
+ doi = {10.1175/jcli-d-11-00388.1},
+ file = {:/home/kessler/docs/papers/gula_and_peltier_2012_dynamical-downscaling-over-great-lakes.pdf:pdf},
+ journal = {Journal of Climate},
+ number = {21},
+ pages = {7723-7742},
+ title = {Dynamical Downscaling over the Great Lakes Basin of North America Using the WRF Regional Climate Model: The Impact of the Great Lakes System on Regional Greenhouse Warming},
+ url = {https://doi.org/10.1175/jcli-d-11-00388.1},
+ volume = {25},
+ year = {2012}
+}
+
+@article{hamilton2022,
+ author = {Hamilton, Stuart E. and McGehee, David D. and Nyamweya, Chrispine and Ongore, Collins and Makori, Amina and Mangeni-Sande, Richard and Kagoya, Esther and Kashindye, Benedicto B. and Elison, Mboni and Shaban, Sophia S. and Mlaponi, Enock and Mwainge, Venny M. and Ocaya, Henry and Krach, Noah and Ogari, Zachary and Mugeni, Bairon and Taabu-Munyaho, Anthony and Kayanda, Robert and Muhumuza, Elias and Natugonza, Vianny},
+ doi = {10.1038/s41597-022-01742-3},
+ file = {:/home/kessler/docs/papers/hamilton_et_al_2022_high-resolution-bathymetries-shorelines-great.pdf:pdf},
+ journal = {Scientific Data},
+ number = {1},
+ title = {High-resolution bathymetries and shorelines for the Great Lakes of the White Nile basin},
+ url = {https://doi.org/10.1038/s41597-022-01742-3},
+ volume = {9},
+ year = {2022}
+}
+
+@misc{harder2018,
+ author = {Harder, Phillip and Pomeroy, John W. and Helgason, Warren D.},
+ doi = {10.5194/hess-2018-90},
+ file = {:/home/kessler/docs/papers/harder_et_al_2018_simple-model-local-scale-sensible.pdf:pdf},
+ title = {A simple model for local scale sensible and latent heat advection
+contributions to snowmelt},
+ url = {https://doi.org/10.5194/hess-2018-90},
+ year = {2018}
+}
+
+@misc{heras2017,
+ archiveprefix = {arXiv},
+ author = {Ricardo Heras},
+ eprint = {1411.2559},
+ file = {:/home/kessler/docs/papers/heras_2017_review-voigt-transformations-framework-special.pdf:pdf},
+ primaryclass = {physics.hist-ph},
+ title = {A review of Voigt's transformations in the framework of special relativity},
+ url = {https://arxiv.org/abs/1411.2559},
+ year = {2017}
+}
+
+@article{hong2022,
+ author = {Hong, Yi and Xuan Do, Hong and Kessler, James and Fry, Lauren and Read, Laura and Rafieei Nasab, Arezoo and Gronewold, Andrew D. and Mason, Lacey and Anderson, Eric J.},
+ doi = {10.1016/j.jhydrol.2022.127507},
+ file = {:/home/kessler/docs/papers/hong_et_al_2022_evaluation-gridded-precipitation-datasets-over.pdf:pdf},
+ journal = {Journal of Hydrology},
+ pages = {127507},
+ title = {Evaluation of gridded precipitation datasets over international basins and large lakes},
+ url = {https://doi.org/10.1016/j.jhydrol.2022.127507},
+ volume = {607},
+ year = {2022}
+}
+
+@article{hu2010,
+ author = {Hu, Haoguo and Wang, Jia},
+ doi = {10.1029/2008jc005175},
+ file = {:/home/kessler/docs/papers/hu_and_wang_2010_modeling-effects-tidal-wave-mixing.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C1},
+ title = {Modeling effects of tidal and wave mixing on circulation and thermohaline structures in the Bering Sea: Process studies},
+ url = {https://doi.org/10.1029/2008jc005175},
+ volume = {115},
+ year = {2010}
+}
+
+@misc{hu2022,
+ author = {Hu, Yao},
+ doi = {10.4211/hs.9460830270ec4d8b9d9c4260cca2114d},
+ file = {:/home/kessler/docs/papers/hu_2022_edge-field-runoff-great-lakes.pdf:pdf},
+ title = {Edge of field runoff for the Great Lakes Region},
+ url = {https://doi.org/10.4211/hs.9460830270ec4d8b9d9c4260cca2114d},
+ year = {2022}
+}
+
+@article{huang2010,
+ author = {Huang, Chuan Jiang and Qiao, Fangli},
+ doi = {10.1029/2009jc005853},
+ file = {:/home/kessler/docs/papers/huang_and_qiao_2010_wave-turbulence-interaction-induced-mixing.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C4},
+ title = {Wave‐turbulence interaction and its induced mixing in the upper ocean},
+ url = {https://doi.org/10.1029/2009jc005853},
+ volume = {115},
+ year = {2010}
+}
+
+@article{huang2021,
+ author = {Huang, Wei and Ye, Fei and Zhang, Y. Joseph and Park, Kyeong and Du, Jiabi and Moghimi, Saeed and Myers, Edward and Pe’eri, Shachak and Calzada, Jaime R. and Yu, H.C. and Nunez, Karinna and Liu, Zhuo},
+ doi = {10.1016/j.ocemod.2020.101735},
+ file = {:/home/kessler/docs/papers/huang_et_al_2021_compounding-factors-extreme-flooding-around.pdf:pdf},
+ journal = {Ocean Modelling},
+ pages = {101735},
+ title = {Compounding factors for extreme flooding around Galveston Bay during Hurricane Harvey},
+ url = {https://doi.org/10.1016/j.ocemod.2020.101735},
+ volume = {158},
+ year = {2021}
+}
+
+@article{hunter2015,
+ author = {Hunter, Timothy S. and Clites, Anne H. and Campbell, Kent B. and Gronewold, Andrew D.},
+ doi = {10.1016/j.jglr.2014.12.006},
+ file = {:/home/kessler/docs/papers/hunter_et_al_2015_development-application-north-american-great.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {1},
+ pages = {65-77},
+ title = {Development and application of a North American Great Lakes hydrometeorological database — Part I: Precipitation, evaporation, runoff, and air temperature},
+ url = {https://doi.org/10.1016/j.jglr.2014.12.006},
+ volume = {41},
+ year = {2015}
+}
+
+@article{ji2019,
+ author = {Ji, Xialong and Gronewold, Andrew D. and Daher, Houraa and Rood, Richard B.},
+ doi = {10.1007/s10584-019-02400-1},
+ file = {:/home/kessler/docs/papers/ji_et_al_2019_modeling-seasonal-onset-coastal.pdf:pdf},
+ journal = {Climatic Change},
+ number = {1-2},
+ pages = {125-141},
+ title = {Modeling seasonal onset of coastal ice},
+ url = {https://doi.org/10.1007/s10584-019-02400-1},
+ volume = {154},
+ year = {2019}
+}
+
+@article{jordan1999,
+ author = {Jordan, Rachel E. and Andreas, Edgar L and Makshtas, Aleksandr P.},
+ doi = {10.1029/1999jc900011},
+ file = {:/home/kessler/docs/papers/jordan_et_al_1999_heat-budget-snow-covered-north.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C4},
+ pages = {7785-7806},
+ title = {Heat budget of snow‐covered sea ice at North Pole 4},
+ url = {https://doi.org/10.1029/1999jc900011},
+ volume = {104},
+ year = {1999}
+}
+
+@article{kalalo2025,
+ author = {Kalalo, Indah Nadya and Irawaty, Irawaty and Suprapti, Duhita Driyah},
+ doi = {10.47772/ijriss.2025.9010042},
+ file = {:/home/kessler/docs/papers/donlon_et_al_2007_global-ocean-data-assimilation-experiment.pdf:pdf},
+ journal = {International Journal of Research and Innovation in Social Science},
+ number = {I},
+ pages = {445-451},
+ title = {The Role of Law in Building Community Morality Indah Nadya Kalalo*, Irawaty, Duhita Driyah Suprapti* Building K, Semarang State University, Sekaran Campus, Gunungpati, Semarang City, Central Java, Indonesia *Corresponding Author DOI: https://dx.doi.org/10.47772/IJRISS.2025.9010042 Received: 25 December 2024; Accepted: 28 December 2024; Published: 30 January 2025 ABSTRACT The Indonesian nation is a nation that has long been known as a nation that highly upholds eastern customs with its polite, friendly and civilized morality. However, at this time the reality of the Indonesian nation has experienced a very concerning moral degradation. This is evident in the many cases that have occurred, such as brawls between students, theft, robbery, rape, free sex, alcohol, drugs and the current trend is the proliferation of corruption in almost all state institutions. Indonesia as a state of law needs to strive to rebuild the morality of the nation's children through the law itself by creating a law-abiding legal culture, increasing legal awareness, and seeking the implementation of policies that can build the morality of the Indonesian people. This study aims to determine the role of law in building morality in society. This research This research uses a literature study research method, while the data collection technique is carried out by exploring journals and other information relevant to the study. The results of this study indicate that the role of law in building community morality is to ensure certainty and justice, in people's lives there is always a difference between patterns of behavior or behavior that applies in society and patterns of behavior desired by norms (rules). law. Keywords- Law, Morality, Society, Moral Decadence   INTRODUCTION The personality of the Indonesian nation is a manifestation of the character of the Indonesian nation, where the process starts from habituation in a synergistic and continuous manner which grouped into an Indonesian nation with a national character. Each individual has a personality that is manifested from within him. Personality thats manifests itself in various ways, some give bad dominance, some dominate good and some are not so good, all of which are influenced by genetic, environmental, family and local factors. Everyone has the right to manifest a personality with good character because personality is a gift from the Creator of the universe, which is human nature. Character is something that is very fundamental in terms of nation and state, therefore the loss of character will cause the loss of the nation's next generation.  The Indonesian nation is a nation that has long been known as a nation that highly upholds eastern customs with its polite, friendly and civilized morality. In the Asian region, Indonesia is the friendliest country. The Legatum Institute, a research institution based in the UK in The Legatum Prosperity Index 2016 ranked Indonesia as the most friendly and sociable Asian country with a score of 61.88. The identified community outreach includes the scope of personal relationships, community participation, and support for social networks.  However, at this time the reality of the Indonesian nation has experienced a very concerning moral decadence. Noble morals such as honesty, truth, justice, helping each other, tepo seliro (tolerance), and loving one another have begun to be eroded by fraud, deception, hostility, oppression, dropping each other, fawning, taking other people's rights by force and at will, and other actions. -another despicable act. Moral decline or what we often hear with the term 'moral decadence' now has not only hit adults, but has also hit students who are the nation's next generation. Parents, teachers, and several parties involved in education, religion and social affairs have complained a lot about the behavior of some students who behave outside the limits of decency and decency, such as: drinking, brawls, drug abuse, promiscuity and free sex. hedonists and hippies in the West, and so on.  The crisis of public mentality at this time is part of a multidimensional crisis, namely a problem experienced by the country where there are many problems in various aspects of life, which are faced especially among the community. The implementation of moral teachings in the public has begun to decline, so that in order to have good and good morals it is not enough for individuals to only carry out activities that are carried out followed by belief and understanding regarding the goodness that is implemented in this activity.  Morality is a crucial issue to be studied in the current era of globalization. This becomes crucial when we look at the behavior of the people and the next generation of this nation which seems to have started to abandon positive moral values. Morality is a benchmark to determine the right and wrong of human attitudes and actions, seen from the good and bad side as humans and not as actors of certain roles. Thus, morals contain values and norms that are sourced from the human conscience.  So to build good public morality, it is necessary to have a smart solution that is able to change the Indonesian people to become moral and have character. Indonesia as a state of law needs to strive to rebuild the morality of the nation's children through the law itself by implementing policies that can build the morality of the Indonesian people. The function of law is as a medium for regulating social interaction. In this arrangement, there are instructions on what to do, what to do and what not to do, in the hope that everything will run in an orderly and orderly manner. At the same time in the position of an orderly society, the law is used as a means to realize social justice, here the law is expected to be useful for people's lives. The community is protected, safe and comfortable. Law can also function as a driver of development, which can bring society in a more advanced direction. In addition, another legal function is to increase people's thinking power to become more critical.  Therefore, this research has a goal, namely to understand the role of law in building public morality. Then, the discussion in this article is related to legal and moral theories to answer the relevant problems and have their validity tested. RESEARCH METHODS  The research method used in this paper is the normative juridical method, which aims to the role of law in building community morality. This approach involves reviewing applicable laws and regulations, court decisions, and related legal literature to understand the legal principles underlying the role of law in building community morality. The data collected will be analyzed qualitatively, with a focus on the role of law in building community morality, in order to obtain a comprehensive understanding of the validity of legal arguments in the role of law in building community morality. DISCUSSION The Role of Law in Building Community Morality  Functions of Law in Community Life Where there is society there is law (ubi societas ibi ius). Law exists in every society, whenever, wherever, and  regardless of the circumstances of that society. it means that the existence of law is universal, apart from the existence of the law, it is greatly affected by the variety and color of the audience (law also has distinctive characteristics, according to the growth and changes that exist in an audience). In carrying out its role as a tool for regulating and social change, the law has the aim of implementing an orderly, peaceful, just audience that is encouraged through legal provisions so that individual and public needs can be maintained. Law has a regulatory nature because it contains a series of rules in commands and prohibitions that aim to regulate human behavior in the order of life in order to create order. That's why we as those who carry out the law must be really disciplined with the law, whether it's the law with humans or the law with the human creator.  The law is formed to maintain the balance of the interests of the community, so as to create order and justice that can be felt by everyone in the community concerned. Even in the historical school it is stated that the whole law is actually formed through the habits and feelings of the people, namely through the secret operation of power. Law is rooted in history, where its roots are brought to life by the awareness, beliefs and habits of citizens.  The law functions as the protection of human interests, so that their interests are protected, then the law should be implemented in real terms. The law functions as a regulator of peaceful social life. The law demands peace.  Broadly speaking, the law functions to carry out social control, dispute settlement and social engineering or innovation. The function of the law as a means of social control, the law is tasked with keeping the community in the patterns of behavior that have been accepted by it. In this role, the law only maintains what has become something permanent and accepted in society or the law as a guardian of the status quo, but beyond that the law can still carry out other functions, namely with the aim of making changes in the environment. to the public After that, the role of law became a sign, by L.B. Curzon (to Achmad Ali, explained that what I meant by symbolic was "involving stages in which individuals simply take into account social correlations and other phenomena that arise through these interactions..." means simply related to social correlations and other symptoms that arise through it, their interactions with other individuals, such as in law, individuals who steal other individual goods intend to possess, through unlawful techniques, symbolized by criminal law as stealing activities that must be punished.  Next, the function of law as a political tool, by Achmad Ali suggests that law (written law) as a political tool is universal. Moreover, it is associated with the function of law as a tool of social engineering, the role of political rulers over the law is very large. Likewise in our legal system in Indonesia, the law is a joint product between the people's representative council and the government. This fact is undeniable how all the politicians who pass the legislation  . Meanwhile, according to Sukowati, the role of politics is to maintain and adapt the system, conversion and the role of capabilities.  Relationship of Law and Morality Since ancient period, including in philosophy or theology, it is often debated whether something that is ordered is meant for good or because it is commanded to be good and vice versa whether something is not allowed because there is evil. Commands and prohibitions are rules in law, while good and bad are the moral values of an action. The existence of a law is basically realized in the context of creating a safe and peaceful life order in social life.  Law is meaningless if it is not accompanied by ethics, so the quality of law is largely determined by moral quality. On the other hand, morality also requires law because morality will be in the air if it is not clearly expressed in society in the form of law. So, the law can increase the impact of morality. For example, respect for others is an important ethical principle, but not all ethics need to be translated into legal form because law must also be limited to regulating relevant human relations. In fact, morality and law are not always related because there are applicable laws (positive laws) that are contrary to ethics and therefore must be rejected. Leaving morals in judgment is tantamount to the law losing its soul.  In Hart's view, the assertion that between law and morality there is a necessary or absolute relationship has many important understandings, but not all of these relationships are clearly visible. Departing from this obscurity Hart seeks to demonstrate and evaluate the reasons underlying this view. According to him, none of the reasons put forward to show the absolute relationship is adequate although he admits that some aspects of the arguments put forward have truth, in accordance with some facts that can be found in the legal system. Hart recognizes that law, justice, and morals have a very close relationship. Even one aspect of justice, namely administrative justice, and in the minimum natural law, law and morality are absolutely related. Administrative justice referred to here is nothing but justice in the application of law. The application of punishment to a person is based solely on the characteristics stated in the law. The law on murder, for example, stipulates that a person who intentionally takes the life of another person is sentenced to fifteen years, so from this provision we will know which characteristics are relevant and irrelevant to punish the perpetrators of murder. The perpetrator's skin color and hair type are irrelevant; while the person's decisions or intentions are relevant. If in deciding a particular case the characteristics mentioned in the law are ignored, then the application of the punishment is considered unfair. Justice in the application of this law according to Hart has an absolute relationship with the law. However, this absolute relationship only concerns the administration of law and this type of justice can also occur in a legal system which is full of unfair laws.  Characteristics of a Moral Society Pestalozzi views humans as moral beings. Morality is the achievement of the human will, the result of good character triumphing over self-interested feelings. To grow morally, we must feel deeply. In other words, an action or behavior can be said to be moral to the extent that the action or behavior is carried out because it is forced by social customs or state law, but from a personal decision. Rousseau was a profound influence on Pestalozzi, Herbart, and Froebel. Pestalozzi followed Rousseau in his “recommendation” that children be educated using the senses. Pestalozzi reworked Rousseau's thinking, following Locke and calling it an "object lesson".  Pestalozzi views humans as moral beings. Morality is the achievement of the human will, the result of good character triumphing over self-interested feelings. To grow morally, we must feel deeply. In other words, an action or behavior can be said to be moral to the extent that the action or behavior is carried out because it is forced by social customs or state law, but from a personal decision. Rousseau was a profound influence on Pestalozzi, Herbart, and Froebel. Pestalozzi followed Rousseau in his “recommendation” that children be educated using the senses. Pestalozzi reworked Rousseau's thinking, following Locke and calling it an "object lesson".  Application of Law in Society Law enforcement is an attempt to bring ideas and concepts into reality. Law enforcement is a process to make legal wishes come true. What are called legal desires here are none other than the thoughts of making laws that are formulated in the legal regulations.  The implementation of law in society, apart from depending on the legal awareness of the community, is also very much determined by law enforcement officers, because it often happens that some legal regulations cannot be implemented properly because there are several law enforcement officers who do not carry out a legal provision as it should. This is due to the implementation by law enforcement itself which is not appropriate and is a bad example and can degrade the image. In addition, good examples and the integrity and morality of law enforcement officers must absolutely be good, because they are very vulnerable and open to opportunities for bribery and abuse of authority. Money can affect the investigation process, prosecution process and the decision handed down.  The discussion about the law enforcement process also extends to the making of laws. The formulation of the thoughts of the creators of the legislation described in the laws and regulations then determines how to enforce the law is implemented, while good law is created by taking into account the various needs that exist in the public, including public, national, and individual and state needs. personal. Thus, the formation of law must seek to balance these various interests. The main public interest is the interest of the state to protect the existence and nature of the state and the interest to monitor and promote social welfare. In people's lives there are always various kinds of norms that directly or indirectly affect the procedures for behaving or acting. The norms that are deeply felt in human life are customary norms, religious norms, moral norms and legal norms.   The law of life in society can force people to obey the rules in society and provide strict sanctions (in the form of punishment) for anyone who violates and does not obey it. The purpose of the law itself is to ensure the continuity of balance in the relationship between members of the community. Good law is formed by considering the various interests that exist in society, both public interests (including the main one is the interest of the state), individual interests and personal interests. Thus, the formation of law must seek to balance these various interests. The main public interest is the interest of the state to protect the existence and nature of the state and the interest to monitor and promote social welfare. The formation of law must pay attention to the living law. There is a balance between written law and unwritten law. The development of law is strongly influenced by ideological, political, social, and cultural conditions. So, it's not just the government's wish.  Efforts to Grow Community Morality with Law Law, which is seen as one of the important aspects in society that aims to realize the formation of a comfortable and just society, is sometimes ignored by a few people. Not infrequently the law is injured, violated, or even manipulated its function by people who do have an interest, or people who still consider the importance of a law that exists in society. These people are people who are not aware and do not obey the law. The role of public legal awareness as the purpose of the law itself is to guarantee certainty and justice. In the life of the community, there is always a difference between the patterns of behavior or behavior that apply in society and the patterns of behavior desired by legal norms (rules). This can lead to a problem in the form of social inequality so that at certain times conflicts and social tensions tend to occur which of course can disrupt the course of community change in the desired direction. This condition occurs because the law that is built can be a guide (principle) to act for the public, there may be legal awareness, to a tendency to obey the law. A sense of legal awareness in the public needs to be created and implemented so that the public is more obedient to the existing laws, including written or written laws that appear and grow in the audience and their existence is recognized through the audience.  Legal awareness According to the KBBI, it is an individual's awareness of the insight that an action is specifically regulated by legislation  . Legal awareness at a particular point, it is desired to be able to provide individual encouragement to obey and carry out or not carry out what is prohibited and or ordered through legislation. Thus, the growth of legal awareness becomes a crucial component in efforts to implement law enforcement. For Ewick and Silbey, “legal consciousness” is formed in action and is therefore a matter of practice to be studied empirically. In other words, legal awareness is a matter of "law as behavior", and not "law as a rule, norm or principle".  The formation of a law-aware and law-abiding society is the ideal of the existence of norms that want a just society so that the joints of community culture will develop towards the creation of a community system that respects one another, making people aware of the law and obeying the law is not something easy by turning the palm of the hand hand, much must be sought by the founders or thinkers of this country to think about this. Law is not the only thing that functions to make people aware of the law and obey the law, Indonesia, which incidentally is a very heterogeneous country, seems to be in forming a positive legal formulation somewhat different from countries whose culture is homogeneous, it is very important before forming a law that will regulate the journey of society, it must be Excavated about the philosophy of law in a more comprehensive manner that will realize real justice for all groups, ethnicities, races, religions in Indonesia.  Basically, law enforcement in Indonesia must include three very basic important aspects, namely: the culture of the community where legal values will be enforced, the structure of the law enforcement itself, and the substance of the law to be enforced.  Building legal awareness is not easy, not everyone has that awareness. Law as a social phenomenon is an institution and control of society. In society, various institutions are found, each of which is needed in the community to meet their needs and facilitate the fulfillment of these needs, because of its function, the community needs the presence of institutions as an understanding of legal awareness.  CONCLUSION The Indonesian nation is a nation that has long been known as a nation that highly upholds eastern customs with its polite, friendly and civilized morality. However, at this time the reality of the Indonesian nation has experienced a very concerning moral degradation. This is evident in the number of cases that have occurred, such as brawls between students, theft, robbery, rape, free sex, alcohol, drugs and the current trend of mushrooming corruption in almost all state institutions. Indonesia as a state of law needs to strive to rebuild the morality of the nation's children through the law itself by creating a law-abiding legal culture, increasing legal awareness, and seeking the implementation of policies that can build the morality of the Indonesian people. The law is formed to maintain the balance of the interests of the community, so as to create order and justice that can be felt by everyone in the community concerned. Meanwhile, the role of law in building the morality of society is to guarantee certainty and justice, in people's lives there is always a difference between the patterns of behavior or behavior prevailing in society and the patterns of behavior desired by the norms (rules) of law. BIBLIOGRAPHY 1.   Achmad, Ali. “Menguak Teori Hukum (Legal Theory) Dan Teori Peradilan (Judicial Prudence) Termasuk Interprestasi Undang-Undang.” Legisprudence, 2009, 511. 2.    Alaby, Muhammad Awin. “Jurnal Pendidikan Ter Integrasi Falkutas Ilmu Pendidikan Menumbuhkan Kepribadian Bangsa Yang Berkarakter Pancasila” 1 (2020): 45–54. 3.  Boiliu, Noh Ibrahim, and Christina Metallica Samosir. “Manusia Sebagai Makhluk Moral Dalam Perspektif.” Jdp 12, No. 3 (2019): 187–97. 4.        Fuad, Iwan Zainul. “Kesadaran Hukum Pengusaha Kecil Di Bidang Pangan Dalam Kemasan Di Kota Semarang Terhadap Regulasi Sertifikasi Produk Halal” 47 (2010). 5.   Universitas Darussalam Gontor. “Fungsi Hukum Dalam Kehidupan Masyarakat,” 2019. H 6.    Hasibuan, Zulkarnain. “Kesadaran Hukum Dan Ketaatan Hukum Masyarakat Dewasa Ini Oleh: Zulkarnain Hasibuan 1 Abstark,” N.D., 78–92. 7.   yurismuda. “Hubungan Hukum Dan Moralitas Menurut HLA Hart,” 2022.  8.   Kata Data. “Indonesia Negara Paling Ramah Di Asia,” 2017. Indonesia Negara Paling Ramah di Asia. 9.     Iskarim, Mochamad. “Dekadensi Moral Di Kalangan Pelajar (Revitalisasi Strategi PAI Dalam Menumbuhkan Moralitas Generasi Bangsa).” Edukasia Islamika 1 (2016): 1–20. 10. Iye, Risman, and Harziko. “Moral Values in Main Characters in Satin Merin Novel Brahmanto Anindito and Rie Yanti,” no. 20 (2003). 11.   Jainah, Zainab Ompu. “Penegakan Hukum Dalam Masyarakat.” Journal of Rural and Development 3, no. 2 (2012). 12.  Jonathan, Sarwono. Metode Penelitian Kuantitatif Dan Kualitatif. Yogyakarta: Graha Ilmu, 2006. 13.      Kamaruddin. “Membangun Kesadaran Dan Ketaatan Hukum Masyarakat Perspektif Law Enforcement.” Iain Kendari 9, No. 2 (2016): 143–57. 14.   Magnis-Suseno, Franz. Etika Dasar (Masalah-Masalah Pokok Filsafat Moral). Jakarta: PT. Kanisius, n.d. 15.       Marwadi, Didiek R. “Fungsi Hukum Dalam Kehidupan Masyarakat,” 2016. 16. Pulungan, Sahmiar. “Membangun Moralitas Melalui Pendidikan Agama.” Jurnal Al-Hikmah 8, no. 1 (2011): 9–24. 17.  Putri, Kanesa, and Muhammad Eko Maryana. “Problematika Moral Bangsa Terhadap Etika Masyarakat.” Jurnal Rechten: Riset Hukum Dan Hak Asasi Manusia 3 (2021): 17–27. 18.  Rosana, Ellya. “Hukum Dan Per Kembangan Masyarakat.” Jurnal Tapis: Jurnal Teropong Aspirasi Politik Islam 9, no. 1 (2013): 99–118. 19.  ____“Kepatuhan Hukum Sebagai Wujud Kesadaran Hukum Masyarakat.” Jurnal TAPIs 10, no. 1 (2014). 20.      Sanyoto. “Penegakan Hukum Di Indonesia,” no. 244 (2007): 199–204. 21.   Suharso, Retnonigsih Anna. Kamus Besar Bahasa Indonesia Edisi Lux. Widia Karya Semarang, 2005. 22.      Sukowati. “Arti, Tujuan, Fungsi Hukum Dalam Masyarakat,” n.d., 5–27. 23.        Sulaiman, Eman. “Hukum Dan Kepentingan Masyarakat (Memosisikan Hukum Sebagai Penyeimbang Kepentingan Masyarakat).” Jurnal Hukum Diktum 11, no. 1 (2013): 100–110. 24.   Utami, Ria Anggraeni, Zico Junius Fernando, Wiwit Pratiwi, and David Aprizon Putra. “Hukum Dan Moral Dalam Kasus-Kasus Hukum.” Al-Imarah: Jurnal Pemerintahan Dan Politik Islam 7, no. 2 (2022): 195–208. 25.   Warjiyati, Sri. Memahami Dasar Ilmu Hukum. 1st ed. Jakarta: Preadamite Group, 2018. 26. Zainudin, Ely. “Peradaban Islam Pada Masa Khulafah Rasyidin.” Jurnal Intelegensia 03, no. 01 (2015): 50–58. 27. Zulfikar, Fahri. “Fungsi, Tujuan, Dan Tugas Hukum Dalam Kehidupan Masyarakat.” Detik.com, 2021.},
+ url = {https://doi.org/10.47772/ijriss.2025.9010042},
+ volume = {IX},
+ year = {2025}
+}
+
+@article{kantha2014,
+ author = {Kantha, Lakshmi and Tamura, Hitoshi and Miyazawa, Yasumasa},
+ doi = {10.1002/2013jc009318},
+ file = {:/home/kessler/docs/papers/kantha_et_al_2014_comment-wave-turbulence-interaction-induced.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {2},
+ pages = {1510-1515},
+ title = {Comment on “Wave‐turbulence interaction and its induced mixing in the upper ocean” by Huang and Qiao},
+ url = {https://doi.org/10.1002/2013jc009318},
+ volume = {119},
+ year = {2014}
+}
+
+@article{kayastha2023,
+ author = {Kayastha, Miraj B. and Liu, Tao and Titze, Daniel and Havens, Timothy C. and Huang, Chenfu and Xue, Pengfei},
+ doi = {10.3390/rs15174253},
+ file = {:/home/kessler/docs/papers/kayastha_et_al_2023_reconstructing-years-1979-2020-great.pdf:pdf},
+ journal = {Remote Sensing},
+ number = {17},
+ pages = {4253},
+ title = {Reconstructing 42 Years (1979–2020) of Great Lakes Surface Temperature through a Deep Learning Approach},
+ url = {https://doi.org/10.3390/rs15174253},
+ volume = {15},
+ year = {2023}
+}
+
+@article{kelly2024,
+ author = {Kelly, Samuel M. and Mansur, Maqsood and Green, Erica},
+ doi = {10.1175/jpo-d-23-0079.1},
+ file = {:/home/kessler/docs/papers/kelly_et_al_2024_predicting-surface-oscillations-lake-superior.pdf:pdf},
+ journal = {Journal of Physical Oceanography},
+ number = {2},
+ pages = {427-444},
+ title = {Predicting Surface Oscillations in Lake Superior from Normal Mode Dynamics},
+ url = {https://doi.org/10.1175/jpo-d-23-0079.1},
+ volume = {54},
+ year = {2024}
+}
+
+@article{kessler2025,
+ author = {Kessler, James and Espey, Eamon and VanDeWeghe, Alexander and Gronewold, Andrew D. and Sorensen, Troy and Khazaei, Bahram and James, Eric and Smirnova, Tatiana G. and Casali, Matt and Yates, David and Omani, Nina and Kelley, John G. W. and Barlage, Michael and Benjamin, Stanley G. and Anderson, Eric J.},
+ doi = {10.1029/2024jd041794},
+ file = {:/home/kessler/docs/papers/kessler_et_al_2025_depth-matters-lake-bathymetry-selection.pdf:pdf},
+ journal = {Journal of Geophysical Research: Atmospheres},
+ number = {2},
+ title = {Depth Matters: Lake Bathymetry Selection in Numerical Weather Prediction Systems},
+ url = {https://doi.org/10.1029/2024jd041794},
+ volume = {130},
+ year = {2025}
+}
+
+@article{kunz2024,
+ author = {Kunz, Luca and Griesel, Alexa and Eden, Carsten and Duran, Rodrigo and Sainte-Rose, Bruno},
+ doi = {10.5194/os-20-1611-2024},
+ file = {:/home/kessler/docs/papers/kunz_et_al_2024_transient-attracting-profiles-great-pacific.pdf:pdf},
+ journal = {Ocean Science},
+ number = {6},
+ pages = {1611-1630},
+ title = {Transient Attracting Profiles in the Great Pacific Garbage Patch},
+ url = {https://doi.org/10.5194/os-20-1611-2024},
+ volume = {20},
+ year = {2024}
+}
+
+@article{lee2007,
+ author = {Lee, ZhongPing and Carder, Kendall and Arnone, Robert and He, MingXia},
+ doi = {10.3390/s7123428},
+ file = {:/home/kessler/docs/papers/lee_et_al_2007_determination-primary-spectral-bands-remote.pdf:pdf},
+ journal = {Sensors},
+ number = {12},
+ pages = {3428-3441},
+ title = {Determination of Primary Spectral Bands for Remote Sensing of Aquatic Environments},
+ url = {https://doi.org/10.3390/s7123428},
+ volume = {7},
+ year = {2007}
+}
+
+@article{lei2016,
+ author = {Lei, Ruibo and Tian‐Kunze, Xiangshan and Leppäranta, Matti and Wang, Jia and Kaleschke, Lars and Zhang, Zhanhai},
+ doi = {10.1002/2016jc011831},
+ file = {:/home/kessler/docs/papers/lei_et_al_2016_changes-summer-albedo-portioning-surface.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {8},
+ pages = {5470-5486},
+ title = {Changes in summer sea ice, albedo, and portioning of surface solar radiation in the Pacific sector of Arctic Ocean during 1982–2009},
+ url = {https://doi.org/10.1002/2016jc011831},
+ volume = {121},
+ year = {2016}
+}
+
+@article{lenters2001,
+ author = {Lenters, John D.},
+ doi = {10.1016/s0380-1330(01)70650-8},
+ file = {:/home/kessler/docs/papers/lenters_2001_long-term-trends-seasonal-cycle.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {3},
+ pages = {342-353},
+ title = {Long-term Trends in the Seasonal Cycle of Great Lakes Water Levels},
+ url = {https://doi.org/10.1016/s0380-1330(01)70650-8},
+ volume = {27},
+ year = {2001}
+}
+
+@book{lepparanta2015,
+ address = {Berlin, Heidelberg},
+ author = {Leppäranta, Matti},
+ doi = {10.1007/978-3-642-29081-7},
+ file = {:/home/kessler/docs/papers/lepparanta_2015_freezing-lakes-evolution-their-cover.pdf:pdf},
+ isbn = {9783642290800},
+ publisher = {Springer Berlin Heidelberg},
+ title = {Freezing of Lakes and the Evolution of their Ice Cover},
+ url = {https://doi.org/10.1007/978-3-642-29081-7},
+ year = {2015}
+}
+
+@article{lin2022,
+ author = {Lin, Yu-Chun and Fujisaki-Manome, Ayumi and Wang, Jia},
+ doi = {10.1175/jcli-d-21-0448.1},
+ file = {:/home/kessler/docs/papers/lin_et_al_2022_recently-amplified-interannual-variability-great.pdf:pdf},
+ journal = {Journal of Climate},
+ number = {19},
+ pages = {6283-6300},
+ title = {Recently Amplified Interannual Variability of the Great Lakes Ice Cover in Response to Changing Teleconnections},
+ url = {https://doi.org/10.1175/jcli-d-21-0448.1},
+ volume = {35},
+ year = {2022}
+}
+
+@article{lin2022b,
+ author = {Lin, Yuchun and Fujisaki-Manome, Ayumi and Anderson, Eric J.},
+ doi = {10.3390/jmse10070932},
+ file = {:/home/kessler/docs/papers/lin_et_al_2022_simulating-landfast-lake-superior.pdf:pdf},
+ journal = {Journal of Marine Science and Engineering},
+ number = {7},
+ pages = {932},
+ title = {Simulating Landfast Ice in Lake Superior},
+ url = {https://doi.org/10.3390/jmse10070932},
+ volume = {10},
+ year = {2022}
+}
+
+@article{liu1987,
+ author = {Liu, Paul C. and Schwab, David J.},
+ doi = {10.1029/jc092ic06p06488},
+ file = {:/home/kessler/docs/papers/liu_and_schwab_1987_comparison-methods-estimating-from-given.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C6},
+ pages = {6488-6494},
+ title = {A comparison of methods for estimating <i>u</i><sub>*</sub> from given <i>u</i><sub>z</sub> and air‐sea temperature differences},
+ url = {https://doi.org/10.1029/jc092ic06p06488},
+ volume = {92},
+ year = {1987}
+}
+
+@article{lodge2024,
+ author = {Lodge, David M.},
+ doi = {10.1002/edn3.528},
+ file = {:/home/kessler/docs/papers/lodge_2024_lessons-learned-from-edna-adoption.pdf:pdf},
+ journal = {Environmental DNA},
+ number = {2},
+ title = {Lessons learned from <scp>eDNA</scp> adoption in the management of bigheaded carps in Chicago <scp>IL USA</scp> Area Waterways},
+ url = {https://doi.org/10.1002/edn3.528},
+ volume = {6},
+ year = {2024}
+}
+
+@article{luo2010,
+ author = {Luo, Liancong and Hamilton, David and Han, Boping},
+ doi = {10.1016/j.solener.2010.01.012},
+ file = {:/home/kessler/docs/papers/luo_et_al_2010_estimation-total-cloud-cover-from.pdf:pdf},
+ journal = {Solar Energy},
+ number = {3},
+ pages = {501-506},
+ title = {Estimation of total cloud cover from solar radiation observations at Lake Rotorua, New Zealand},
+ url = {https://doi.org/10.1016/j.solener.2010.01.012},
+ volume = {84},
+ year = {2010}
+}
+
+@article{lupkes2012,
+ author = {Lüpkes, Christof and Gryanik, Vladimir M. and Hartmann, Jörg and Andreas, Edgar L.},
+ doi = {10.1029/2012jd017630},
+ file = {},
+ journal = {Journal of Geophysical Research: Atmospheres},
+ number = {D13},
+ title = {A parametrization, based on sea ice morphology, of the neutral atmospheric drag coefficients for weather prediction and climate models},
+ url = {https://doi.org/10.1029/2012jd017630},
+ volume = {117},
+ year = {2012}
+}
+
+@article{magnuson2000,
+ author = {Magnuson, John J and Robertson, Dale M and Benson, Barbara J and Wynne, Randolph H and Livingstone, David M and Arai, Tadashi and Assel, Raymond A and Barry, Roger G and Card, Virginia and Kuusisto, Esko and others},
+ file = {:/home/kessler/docs/papers/magnuson_et_al_2000_historical-trends-lake-river-cover.pdf:pdf},
+ journal = {Science},
+ number = {5485},
+ pages = {1743--1746},
+ publisher = {American Association for the Advancement of Science},
+ title = {Historical trends in lake and river ice cover in the Northern Hemisphere},
+ volume = {289},
+ year = {2000}
+}
+
+@article{mao2020,
+ author = {Mao, Miaohua and Xia, Meng},
+ doi = {10.1029/2019jc015765},
+ file = {:/home/kessler/docs/papers/mao_and_xia_2020_particle-dynamics-nearshore-lake-michigan.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {8},
+ title = {Particle Dynamics in the Nearshore of Lake Michigan Revealed by an Observation‐Modeling System},
+ url = {https://doi.org/10.1029/2019jc015765},
+ volume = {125},
+ year = {2020}
+}
+
+@article{mason2016,
+ author = {Mason, Lacey A. and Riseng, Catherine M. and Gronewold, Andrew D. and Rutherford, Edward S. and Wang, Jia and Clites, Anne and Smith, Sigrid D. P. and McIntyre, Peter B.},
+ doi = {10.1007/s10584-016-1721-2},
+ file = {:/home/kessler/docs/papers/mason_et_al_2016_fine-scale-spatial-variation-cover.pdf:pdf},
+ journal = {Climatic Change},
+ number = {1-2},
+ pages = {71-83},
+ title = {Fine-scale spatial variation in ice cover and surface temperature trends across the surface of the Laurentian Great Lakes},
+ url = {https://doi.org/10.1007/s10584-016-1721-2},
+ volume = {138},
+ year = {2016}
+}
+
+@misc{mccaslin2024,
+ author = {McCaslin, James Christopher and Mikesell, T. Dylan and Marshall, Hans-Peter},
+ doi = {10.18122/cryogars_snow_data.1.boisestate},
+ file = {:/home/kessler/docs/papers/mccaslin_et_al_2024_dataset-laser-ultrasound-system-invasively.pdf:pdf},
+ title = {Dataset for a Laser Ultrasound System to Non-Invasively Measure Compression Waves in Granular Ice Mixes},
+ url = {https://doi.org/10.18122/cryogars_snow_data.1.boisestate},
+ year = {2024}
+}
+
+@article{meadows2013,
+ author = {Meadows, Lorelle A. and Whelan, Chad and Barrick, Don and Kroodsma, Rachael and Ruf, Christopher and Teague, Calvin C. and Meadows, Guy A. and Wang, Suwen},
+ doi = {10.1016/j.jglr.2013.01.002},
+ file = {:/home/kessler/docs/papers/meadows_et_al_2013_high-frequency-radar-application-fresh.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ pages = {183-193},
+ title = {High frequency radar and its application to fresh water},
+ url = {https://doi.org/10.1016/j.jglr.2013.01.002},
+ volume = {39},
+ year = {2013}
+}
+
+@article{mellor2004,
+ author = {Mellor, George and Blumberg, Alan},
+ doi = {10.1175/2517.1},
+ file = {:/home/kessler/docs/papers/mellor_and_blumberg_2004_wave-breaking-ocean-surface-layer.pdf:pdf},
+ journal = {Journal of Physical Oceanography},
+ number = {3},
+ pages = {693-698},
+ title = {Wave Breaking and Ocean Surface Layer Thermal Response},
+ url = {https://doi.org/10.1175/2517.1},
+ volume = {34},
+ year = {2004}
+}
+
+@article{mesinger2006,
+ author = {Mesinger, Fedor and DiMego, Geoff and Kalnay, Eugenia and Mitchell, Kenneth and Shafran, Perry C. and Ebisuzaki, Wesley and Jović, Dušan and Woollen, Jack and Rogers, Eric and Berbery, Ernesto H. and Ek, Michael B. and Fan, Yun and Grumbine, Robert and Higgins, Wayne and Li, Hong and Lin, Ying and Manikin, Geoff and Parrish, David and Shi, Wei},
+ doi = {10.1175/bams-87-3-343},
+ file = {:/home/kessler/docs/papers/mesinger_et_al_2006_north-american-regional-reanalysis.pdf:pdf},
+ journal = {Bulletin of the American Meteorological Society},
+ number = {3},
+ pages = {343-360},
+ title = {North American Regional Reanalysis},
+ url = {https://doi.org/10.1175/bams-87-3-343},
+ volume = {87},
+ year = {2006}
+}
+
+@article{mobley2015,
+ author = {Mobley, Curtis D.},
+ doi = {10.1364/ao.54.004828},
+ file = {:/home/kessler/docs/papers/mobley_2015_polarized-reflectance-transmittance-properties-windblown.pdf:pdf},
+ journal = {Applied Optics},
+ number = {15},
+ pages = {4828},
+ title = {Polarized reflectance and transmittance properties of windblown sea surfaces},
+ url = {https://doi.org/10.1364/ao.54.004828},
+ volume = {54},
+ year = {2015}
+}
+
+@article{molod2012,
+ author = {Molod, Andrea},
+ doi = {10.1175/jcli-d-11-00412.1},
+ file = {:/home/kessler/docs/papers/out.pdf:pdf},
+ journal = {Journal of Climate},
+ number = {23},
+ pages = {8341-8352},
+ title = {Constraints on the Profiles of Total Water PDF in AGCMs from AIRS and a High-Resolution Model},
+ url = {https://doi.org/10.1175/jcli-d-11-00412.1},
+ volume = {25},
+ year = {2012}
+}
+
+@article{o-reilly2015,
+ author = {O'Reilly, Catherine M. and Sharma, Sapna and Gray, Derek K. and Hampton, Stephanie E. and Read, Jordan S. and Rowley, Rex J. and Schneider, Philipp and Lenters, John D. and McIntyre, Peter B. and Kraemer, Benjamin M. and Weyhenmeyer, Gesa A. and Straile, Dietmar and Dong, Bo and Adrian, Rita and Allan, Mathew G. and Anneville, Orlane and Arvola, Lauri and Austin, Jay and Bailey, John L. and Baron, Jill S. and Brookes, Justin D. and de Eyto, Elvira and Dokulil, Martin T. and Hamilton, David P. and Havens, Karl and Hetherington, Amy L. and Higgins, Scott N. and Hook, Simon and Izmest'eva, Lyubov R. and Joehnk, Klaus D. and Kangur, Kulli and Kasprzak, Peter and Kumagai, Michio and Kuusisto, Esko and Leshkevich, George and Livingstone, David M. and MacIntyre, Sally and May, Linda and Melack, John M. and Mueller‐Navarra, Doerthe C. and Naumenko, Mikhail and Noges, Peeter and Noges, Tiina and North, Ryan P. and Plisnier, Pierre‐Denis and Rigosi, Anna and Rimmer, Alon and Rogora, Michela and Rudstam, Lars G. and Rusak, James A. and Salmaso, Nico and Samal, Nihar R. and Schindler, Daniel E. and Schladow, S. Geoffrey and Schmid, Martin and Schmidt, Silke R. and Silow, Eugene and Soylu, M. Evren and Teubner, Katrin and Verburg, Piet and Voutilainen, Ari and Watkinson, Andrew and Williamson, Craig E. and Zhang, Guoqing},
+ doi = {10.1002/2015gl066235},
+ file = {:/home/kessler/docs/papers/o-reilly_et_al_2015_rapid-highly-variable-warming-lake.pdf:pdf},
+ journal = {Geophysical Research Letters},
+ number = {24},
+ title = {Rapid and highly variable warming of lake surface waters around the globe},
+ url = {https://doi.org/10.1002/2015gl066235},
+ volume = {42},
+ year = {2015}
+}
+
+@article{oh2020,
+ author = {Oh, Jeong-Joo and Kim, Gyu-Hyeok},
+ doi = {10.1515/hf-2019-0218},
+ file = {:/home/kessler/docs/papers/oh_and_kim_2020_effects-copper-leaching-from-wood.pdf:pdf},
+ journal = {Holzforschung},
+ number = {9},
+ pages = {891-897},
+ title = {The effects of pH on copper leaching from wood treated with copper amine-based preservatives},
+ url = {https://doi.org/10.1515/hf-2019-0218},
+ volume = {74},
+ year = {2020}
+}
+
+@article{p-kirtman2014,
+ author = {Kirtman, Ben P. and Min, Dughong and Infanti, Johnna M. and Kinter, James L. and Paolino, Daniel A. and Zhang, Qin and van den Dool, Huug and Saha, Suranjana and Mendez, Malaquias Pena and Becker, Emily and Peng, Peitao and Tripp, Patrick and Huang, Jin and DeWitt, David G. and Tippett, Michael K. and Barnston, Anthony G. and Li, Shuhua and Rosati, Anthony and Schubert, Siegfried D. and Rienecker, Michele and Suarez, Max and Li, Zhao E. and Marshak, Jelena and Lim, Young-Kwon and Tribbia, Joseph and Pegion, Kathleen and Merryfield, William J. and Denis, Bertrand and Wood, Eric F.},
+ doi = {10.1175/bams-d-12-00050.1},
+ file = {:/home/kessler/docs/papers/p-kirtman_et_al_2014_north-american-multimodel-ensemble-phase.pdf:pdf},
+ journal = {Bulletin of the American Meteorological Society},
+ number = {4},
+ pages = {585-601},
+ title = {The North American Multimodel Ensemble: Phase-1 Seasonal-to-Interannual Prediction; Phase-2 toward Developing Intraseasonal Prediction},
+ url = {https://doi.org/10.1175/bams-d-12-00050.1},
+ volume = {95},
+ year = {2014}
+}
+
+@article{pendrill2021,
+ author = {Pendrill, L.R. and Allard, A. and Fischer, N. and Harris, P.M. and Nguyen, J. and Smith, I.M.},
+ doi = {10.51843/measure.13.1.6},
+ file = {:/home/kessler/docs/papers/magnuson_et_al_2000_historical-trends-lake-river-cover.pdf:pdf},
+ journal = {NCSL International measure},
+ number = {1},
+ pages = {58-69},
+ title = {Full Issue Download Vol. 13 No. 1 2021   The Importance of the Measurement Infrastructure in Economic Recovery from the COVID-19 Pandemic  Richard J. C. Brown , Fiona Auty, Eugenio Renedo, Mike King  NCSLI Measure | Vol. 13 No. 1 (2021) | doi.org/10.51843/measure.13.1.1 Publisher NCSL International | Published February 2021 | Pages 18-21  Abstract: This paper describes the many, evidenced-based benefits to the economy of a well-developed measurement infrastructure. In particular, it explains how assuring confidence in measurement may be used to accelerate economic recovery from the COVID-19 pandemic including in emerging sectors such as the digital economy. Recommendations are made for providing near term support for national economic recovery whilst also demonstrating the advantages of sustained development of the measurement infrastructure in the medium-term to maximize the potential of future innovative and disruptive technologies. These recommendations, whilst focused on consideration of the UK, should apply globally.  References:  [1] G. Tassey, "Underinvestment in public good technologies," J Technol. Transfer, Vol. 30, pp. 89-113, 2004. https://doi.org/10.1007/s10961-004-4360-0 [2] M. King, and E. Renedo, "Achieving the 2.4% GDP target: The role of measurement in increasing investment in R&amp;D and innovation," NPL Report IEA 3, NPL, Teddington, UK, March 2020. [3] M. King and G. Tellett, "The National Measurement System: A Customer Survey for Three of the Core Labs in the National Measurement System," NMS Customer Survey Report 2018, NPL Teddington, UK, April 2020 [4] H. Kunzmann, T. Pfeifer, R. Schmitt, H. Schwenke, and A.Weckenmann, "Productive metrology-adding value to manufacture," CIRP Annals, vol. 54, pp. 155-168, 2005. https://doi.org/10.1016/S0007-8506(07)60024-9 [5] N. G. Orji, R. G. Dixson, A. Cordes, B. D. Bunday, and J. A. Allgair, "Measurement traceability and quality assurance in a nanomanufacturing environment," Instrumentation, Metrology, and Standards for Nanomanufacturing III, Proceedings Vol. 7405, 740505, August 2009. https://doi.org/10.1117/12.826606 [6] Belmana, Analysis for Policy "Public Support for Innovation and Business Outcomes," Belmana: London, UK, 2020. [7] R. Hawkins, Standards, systems of innovation and policy in Handbook of Innovation and Standards. Cheltenham, UK: Edward Elgar, 2019. [8] N. Nwaigbo, and M. King, "Evaluating the Impact of the NMS Consultancy Projects on Supported Firms (Working Paper)" NPL, Teddington, UK, 2020. [9] M. King, R. Lambert, and P. Temple, Measurement, standards and productivity spillovers in Handbook of Innovation and Standards. Cheltenham, UK: Edward Elgar, 2017, p. 162. https://doi.org/10.4337/9781783470082.00016 [10] A. Font, K. de Hoogh, M. Leal-Sanchez, D. C. Ashworth, R. J. C. Brown, A. L. Hansell, and G. W. Fuller, "Using metal ratios to detect emissions from municipal waste incinerators in ambient air pollution data," Atmos. Environ., vol. 113, pp. 177-186, July 2015. https://doi.org/10.1016/j.atmosenv.2015.05.002 [11] S. Giannis, M. R. L. Gower, G. D. Sims, G. Pask, and G. Edwards, "Increasing UK competitiveness by enhancing the composite materials regulatory infrastructure," NPL Report MAT 90, NPL, Teddington, UK, October 2019. [12] HM Government, UK Research and Development Roadmap, BEIS, London, July 2020. [13] M. R. Mehra, S. S. Desai, F. Ruschitzka, and A. N. Patel, "Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis," Lancet, 2020, https://doi.org/10.1016/S0140-6736(20)31180-6  (Print: ISSN 1931-5775) (Online: ISSN 2381-0580) ©2021 NCSL International   Smart Power Supply Calibration System  Iraj Vasaeli , Brandon Umansky  NCSLI Measure | Vol. 13 No. 1 (2021) | doi.org/10.51843/measure.13.1.2 Publisher: NCSL International | Published February 2021 | Pages 22-27  Abstract: This paper details the development of an automated procedure to conduct calibrations of power supplies at Jet Propulsion Laboratory, California Institute of Technology (JPL). The fundamentals of power supply calibrations are given, and discussion on the method by which this custom software handles that calibration. Additionally, this technique provides real time uncertainty quantification of the calibrations. This automated system has demonstrated a time savings over existing automated techniques in use today.  References:  [1] Keysight, "Low-Profile Modular Power System Series N6700 Service Guide", Part Number: 5969 2938, Edition 7, January 2015. [2] B. N. Taylor and C. E. Kuyatt, "Guidelines for Evaluating and Expressing the Uncertainty of NIST Measurement Results", NIST Technical Note 1297, 1994. https://doi.org/10.6028/NIST.TN.1297 [3] JCGM, "Evaluation of measurement data - Guide to the expression of uncertainty in measurement," first edition (GUM 1995 with minor corrections)," JCGM 100, 2008.  (Print: ISSN 1931-5775) (Online: ISSN 2381-0580) © 2021 NCSL International   Computer Aided Verification of Voltage Dips and Short Interruption Generators for Electromagnetic Compatibility Immunity Test in Accordance with IEC 61000-4-11: 2004 + AMD: 2017  Hau Wah Lai , Cho Man Tsui , Hing Wah Li  NCSLI Measure | Vol. 13 No. 1 (2021) | doi.org/10.51843/measure.13.1.3 Publisher: NCSL International | Published February 2021 | Pages 28-39  Abstract: This paper describes a procedure and a computer-aided system developed by the Standards and Calibration Laboratory (SCL) for verification of voltage dip and short interruption generators in accordance with the international standard IEC 61000-4-11:2004+AMD1:2017. The verification is done by calibrating the specified parameters and comparing with the requirements stated in the standard. The parameters that should be calibrated are the ratios of the residual voltages to the rated voltage, the accuracy of the phase angle at switching, and the rise time, fall time, overshoot and undershoot of the switching waveform. A specially built adapter is used to convert the high voltage output waveforms of the generators to lower level signals to be acquired by a digital oscilloscope. The other circuits required for the testing are also provided. In addition, the paper discusses the uncertainty evaluations for the measured parameters.  References:  [1] T. Williams, and K. Armstrong, "EMC for Systems and Installations Part 6 - Low-Frequency Magnetics Fields (Emissions and Immunity) Mains Dips, Dropouts, Interruptions, Sags, Brownouts and Swells," EMC Compliance Journal, August 2000.  [2] M.I. Montrose, and E. M. Nakauchi, Testing for EMC Compliance: Approaches and Techniques, Wiley Interscience, 2004. https://doi.org/10.1002/047164465X  [3] International Standard IEC 61000-4-11:2004+AMD1:2017:Electromagnetic Compatibility (EMC) Part 4-11: Testing and measurement techniques - Voltage dips, short interruptions and voltage variations immunity tests.  [4] Evaluation of measurement data - Guide to the expression of uncertainty in measurement, First Edition JCGM 100:2008.  (Print: ISSN 1931-5775) (Online: ISSN 2381-0580) © 2021 NCSL International   Validation of the Photometric Method Used for Micropipette Calibration  Elsa Batista , Isabel Godinho, George Rodrigues, Doreen Rumery  NCSLI Measure | Vol. 13 No. 1 (2021) | doi.org/10.51843/measure.13.1.4 Publisher: NCSL International | Published February 2021 | Pages 40-45  Abstract: There are two methods generally used for calibration of micropipettes: the gravimetric method described in ISO 8655-6:2002 and the photometric method described in ISO 8655-7:2005. In order to validate the photometric method, several micropipettes of different capacities from 0.1 µL to 1000 µL were calibrated using both methods (gravimetric and photometric) in two different laboratories, IPQ (Portuguese Institute for Quality) and Artel. These tests were performed by six different operators. The uncertainty for both methods was determined and it was verified that the uncertainty component that has a higher contribution to the final uncertainty budget depends on the volume delivered. In the photometric method for small volumes, the repeatability of the pipette is the largest uncertainty component, but for volumes, larger than 100 µL, the photometric instrument is the most significant source of uncertainty. Based on all the results obtained with this study, one may consider the photometric method validated.  References:  [1] ISO 8655-1/2/6/7, Piston-operated volumetric apparatus, 2002.  [2] BIPM, International Vocabulary of Metrology, 3rd edition, JCGM 200:2012.  [3] George Rodrigues, Bias and transferability in standards methods of pipette calibration, Artel, June 2003.  [4] Taylor, et.al. The definition of primary method of measurement (PMM) of the 'highest metrological quality': a challenge in understanding and communication, Accred. Qual.Assur (2001) 6:103-106. https://doi.org/10.1007/PL00010444  [5] EURAMET project 1353, Volume comparison on Calibration of micropipettes - Gravimetric and photometric methods.  [6] ASTM E542: Standard Practice for Calibration of laboratory Volumetric Apparatus, 2000.  [7] ISO 4787; Laboratory glassware - Volumetric glassware - Methods for use and testing of capacity, 2010 .  [8] ISO 13528:2005 - Statistical methods used in proficiency testing by interlaboratory comparisons.  [9] BIPM et al, Guide to the Expression of Uncertainty in Measurement (GUM), 2nd ed., International Organization for Standardization, Genève, 1995.  [10] EURAMET guide, cg 19, - Guidelines on the determination of uncertainty in gravimetric volume calibration, version 3.0, 2012.  [11] E. Batista et all, A Study of Factors that Influence Micropipette Calibrations, Measure Vol. 10 No. 1, 2015 https://doi.org/10.1080/19315775.2015.11721717  [12] www.BIPM.org.  (Print: ISSN 1931-5775) (Online: ISSN 2381-0580) © 2021 NCSL International   Material Flow Rate Estimation in Material Extrusion Additive Manufacturing  G. P. Greeff  NCSLI Measure | Vol. 13 No. 1 (2021) | doi.org/10.51843/measure.13.1.5 Publisher: NCSL International | Published February 2021 | Pages 46-56   Abstract: The additive manufacturing of products promises exciting possibilities. Measurement methodologies, which measure an in-process dataset of these products and interpret the results, are essential. However, before developing such a level of quality assurance several in-process measurands must be realized. One of these is the material flow rate, or rate of adding material during the additive manufacturing process. Yet, measuring this rate directly in material extrusion additive manufacturing presents challenges. This work presents two indirect methods to estimate the volumetric flow rate at the liquefier exit in material extrusion, specifically in Fused Deposition Modeling or Fused Filament Fabrication. The methods are cost effective and may be applied in future sensor integration. The first method is an optical filament feed rate and width measurement and the second is based on the liquefier pressure. Both are used to indirectly estimate the volumetric flow rate. The work also includes a description of linking the G-code command to the final print result, which may be used to create a per extrusion command model of the part.  References:  [1] T. Wohlers, I. Campbell, O. Diegel, J. Kowen, I. Fidan, and D.L. Bourell, "Wohlers Report 2017: 3D Printing and Additive Manufacturing State of the Industry Annual Worldwide Progress Report," 2017.  [2] Additive manufacturing -- General principles -- Terminology. Geneva, CH: International Organization for Standardization, 2015.  [3] R. Jones et al., "Reprap - The replicating rapid prototyper," Robotica, vol. 29, no. 1 SPEC. ISSUE, pp. 177-191, 2011, https://doi.org/10.1017/S026357471000069X  [4] T. Wohlers and T. Gornet, "History of Additive Manufacturing 2017," 2017.  [5] S. A. M. Tofail, E. P. Koumoulos, A. Bandyopadhyay, S. Bose, L. O'Donoghue, and C. Charitidis, "Additive manufacturing: scientific and technological challenges, market uptake and opportunities, "Materials Today, vol. 21, no. 1, pp. 22-37, Jan. 2018, https://doi.org/10.1016/j.mattod.2017.07.001  [6] G. Moroni and S. Petrò, "Managing uncertainty in the new manufacturing era," Procedia CIRP, vol. 75, pp. 1-2, 2018, https://doi.org/10.1016/j.procir.2018.07.001  [7] R. Leach et al., "Information-rich manufacturing metrology,"in Eighth International Precision Assembly Seminar (IPAS), 2018, no. January. https://doi.org/10.1007/978-3-030-05931-6_14 [8] S. Moylan, J. Slotwinski, A. Cooke, K. Jurrens, M. A. Donmez, and A. Donmez, "Proposal for a Standardized Test Artifact for Additive Manufacturing Machines and Processes," Solid Freeform Fabrication Symposium Proceedings, pp. 902-920, 2012. https://doi.org/10.6028/NIST.IR.7858  [9] ASME Y14.46-2017 Product Definition for Additive Manufacturing. New York:The American Society of Mechanical Engineers, 2017.  [10] H. Li, T. Wang, J. Sun, and Z. Yu, "The effect of process parameters in fused deposition modelling on bonding degree and mechanical properties," Rapid Prototyping Journal, vol. 24, no. 1, pp. 80-92, Jan. 2018, https://doi.org/10.1108/RPJ-06-2016-0090  [11] A. W. Gebisa and H. G. Lemu, "Investigating effects of Fused-deposition modeling (FDM) processing parameters on flexural properties of ULTEM 9085 using designed experiment, "Materials, vol.11, no. 4, pp. 1-23, 2018, https://doi.org/10.3390/ma11040500 PMid:29584674 PMCid:PMC5951346 [12] B. Wittbrodt and J. M. Pearce, "The effects of PLA color on material properties of 3-D printed components," Additive Manufacturing, vol. 8, pp. 110-116, 2015, https://doi.org/10.1016/j.addma.2015.09.006  [13] O. A. Mohamed, S. H. Masood, and J. L. Bhowmik, "Optimization of fused deposition modeling process parameters: a review of current research and future prospects," Advances in Manufacturing, vol. 3, no. 1, pp. 42-53, Mar. 2015, https://doi.org/10.1007/s40436-014-0097-7  [14] S. K. Everton, M. Hirsch, P. Stravroulakis, R. K. Leach and A. T. Clare, "Review of in-situ process monitoring and in-situ metrology for metal additive manufacturing," Materials and Design, vol. 95, pp. 431-445, 2016, https://doi.org/10.1016/j.matdes.2016.01.099  [15] P. K. Rao, J. P. Liu, D. Roberson, Z. J. Kong, and C. Williams,"Online Real-Time Quality Monitoring in Additive Manufacturing Processes Using Heterogeneous Sensors," Journal of Manufacturing Science and Engineering, vol. 137, no. 6, p.061007, Sep. 2015, https://doi.org/10.1115/1.4029823  [16] J. Pellegrino, T. Makila, S. McQueen, and E. Taylor, "Measurement science roadmap for polymer-based additive manufacturing," Gaithersburg, MD, Dec. 2016. https://doi.org/10.6028/NIST.AMS.100-5  [17] T. R. Kramer, F. M. Proctor, and E. Messina, "The NIST RS274NGC Interpreter -Version 3," Gaithersburg, Maryland, 2000. https://doi.org/10.6028/NIST.IR.6556  [18] B. N. Turner, R. Strong, and S. A. Gold, "A review of melt extrusion additive manufacturing processes: I. Process design and modeling," Rapid Prototyping Journal, vol. 20, no. 3, pp.192-204, Apr. 2014, https://doi.org/10.1108/RPJ-01-2013-0012  [19] Conrad Electronic, "Renkforce RF1000 3D Drucker," 2016. https://www.conrad.de/de/renkforce-rf1000-3d-drucker-single-extruder-inkl-software-franzis-designcad-v24-3d-printrenkforce-edition-1007508.html (accessed Sep. 20, 2016).  [20] G. Hodgson, A. Ranellucci, and J. Moe, "Slic3r Manual - Flow Math," 2016. http://manual.slic3r.org/advanced/flow-math (accessed Jun. 21, 2016).  [21] Repetier, "Repetier-Firmware Documentation." https://www.repetier.com/documentation/repetier firmware/repetier-firmware-introduction/ (accessed Apr. 17, 2018).  [22] B. Weiss, D. W. Storti, and M. A. Ganter, "Low-cost closedloop control of a 3D printer gantry," Rapid Prototyping  Journal, vol. 21, no. 5, pp. 482-490, Aug. 2015, https://doi.org/10.1108/RPJ-09-2014-0108  [23] R. L. Zinniel and J. S. Batchelder, "Volumetric Feed Control for Flexible Filament," US 6085957, 2000.  [24] W. J. Heij, Applied Metrology in Additive Manufacturing. Delft: Delft University of Technology, 2016.  [25] G. P. Greeff and M. Schilling, "Closed loop control of slippage during filament transport in molten material extrusion," Additive Manufacturing, vol. 14, pp. 31-38, 2017, https://doi.org/10.1016/j.addma.2016.12.005  [26] G. P. Greeff, Applied Metrology in Additive Manufacturing, vol. 60. Berlin: Mensch und Buch, 2019.  [27] G. P. Greeff and M. Schilling, "Comparing Retraction Methods with Volumetric Exit Flow Measurement in Molten Material Extrusion," in Special Interest Group meeting on Dimensional Accuracy and Surface Finish in Additive Manufacturing, 2017, no. October, pp. 70-74.  [28] G. P. Greeff and M. Schilling, "Single print optimisation of fused filament fabrication parameters," The International Journal of Advanced Manufacturing Technology, Aug. 2018, https://doi.org/10.1007/s00170-018-2518-4  [29] A. Bellini, S. Güçeri, and M. Bertoldi, "Liquefier Dynamics in Fused Deposition," Journal of Manufacturing Science and Engineering, vol. 126, no. 2, p. 237, 2004, https://doi.org/10.1115/1.1688377  [30] P. Virtanen et al., "SciPy 1.0: fundamental algorithms for scientific computing in Python," Nature Methods, vol. 17, no. 3, pp. 261-272, Mar. 2020, https://doi.org/10.1038/s41592-019-0686-2 PMid:32015543 PMCid:PMC7056644  (Print: ISSN 1931-5775) (Online: ISSN 2381-0580) © 2021 NCSL International   Software to Maximize End-User Uptake of Conformity Assessment with Measurement Uncertainty, Including Bivariate Cases. The European EMPIR CASoft Project},
+ url = {https://doi.org/10.51843/measure.13.1.6},
+ volume = {13},
+ year = {2021}
+}
+
+@article{persson2018,
+ author = {Persson, P. Ola G. and Blomquist, Byron and Guest, Peter and Stammerjohn, Sharon and Fairall, Christopher and Rainville, Luc and Lund, Björn and Ackley, Stephen and Thomson, Jim},
+ doi = {10.1029/2018jc013786},
+ file = {:/home/kessler/docs/papers/persson_et_al_2018_shipboard-observations-meteorology-near-surface.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {7},
+ pages = {4930-4969},
+ title = {Shipboard Observations of the Meteorology and Near‐Surface Environment During Autumn Freezeup in the Beaufort/Chukchi Seas},
+ url = {https://doi.org/10.1029/2018jc013786},
+ volume = {123},
+ year = {2018}
+}
+
+@article{posselt2017,
+ author = {Posselt, Derek J. and Kessler, James and Mace, Gerald G.},
+ doi = {10.1175/jamc-d-16-0276.1},
+ file = {:/home/kessler/docs/papers/posselt_et_al_2017_bayesian-retrievals-vertically-resolved-cloud.pdf:pdf},
+ journal = {Journal of Applied Meteorology and Climatology},
+ number = {3},
+ pages = {745-765},
+ title = {Bayesian Retrievals of Vertically Resolved Cloud Particle Size Distribution Properties},
+ url = {https://doi.org/10.1175/jamc-d-16-0276.1},
+ volume = {56},
+ year = {2017}
+}
+
+@article{read2015,
+ author = {Read, Laura K. and Vogel, Richard M.},
+ doi = {10.1002/2015wr017089},
+ file = {:/home/kessler/docs/papers/read_and_vogel_2015_reliability-return-periods-risk-under.pdf:pdf},
+ journal = {Water Resources Research},
+ number = {8},
+ pages = {6381-6398},
+ title = {Reliability, return periods, and risk under nonstationarity},
+ url = {https://doi.org/10.1002/2015wr017089},
+ volume = {51},
+ year = {2015}
+}
+
+@article{richardson2024,
+ author = {Richardson, David C. and Filazzola, Alessandro and Woolway, R. Iestyn and Imrit, M. Arshad and Bouffard, Damien and Weyhenmeyer, Gesa A. and Magnuson, John and Sharma, Sapna},
+ doi = {10.1002/lno.12527},
+ file = {:/home/kessler/docs/papers/richardson_et_al_2024_nonlinear-responses-interannual-variability-lake.pdf:pdf},
+ journal = {Limnology and Oceanography},
+ number = {4},
+ pages = {789-801},
+ title = {Nonlinear responses in interannual variability of lake ice to climate change},
+ url = {https://doi.org/10.1002/lno.12527},
+ volume = {69},
+ year = {2024}
+}
+
+@article{saha2006,
+ author = {Saha, S. and Nadiga, S. and Thiaw, C. and Wang, J. and Wang, W. and Zhang, Q. and Van den Dool, H. M. and Pan, H.-L. and Moorthi, S. and Behringer, D. and Stokes, D. and Peña, M. and Lord, S. and White, G. and Ebisuzaki, W. and Peng, P. and Xie, P.},
+ doi = {10.1175/jcli3812.1},
+ file = {:/home/kessler/docs/papers/saha_et_al_2006_ncep-climate-forecast-system.pdf:pdf},
+ journal = {Journal of Climate},
+ number = {15},
+ pages = {3483-3517},
+ title = {The NCEP Climate Forecast System},
+ url = {https://doi.org/10.1175/jcli3812.1},
+ volume = {19},
+ year = {2006}
+}
+
+@article{saha2010,
+ author = {Saha, Suranjana and Moorthi, Shrinivas and Pan, Hua-Lu and Wu, Xingren and Wang, Jiande and Nadiga, Sudhir and Tripp, Patrick and Kistler, Robert and Woollen, John and Behringer, David and Liu, Haixia and Stokes, Diane and Grumbine, Robert and Gayno, George and Wang, Jun and Hou, Yu-Tai and Chuang, Hui-ya and Juang, Hann-Ming H. and Sela, Joe and Iredell, Mark and Treadon, Russ and Kleist, Daryl and Van Delst, Paul and Keyser, Dennis and Derber, John and Ek, Michael and Meng, Jesse and Wei, Helin and Yang, Rongqian and Lord, Stephen and van den Dool, Huug and Kumar, Arun and Wang, Wanqiu and Long, Craig and Chelliah, Muthuvel and Xue, Yan and Huang, Boyin and Schemm, Jae-Kyung and Ebisuzaki, Wesley and Lin, Roger and Xie, Pingping and Chen, Mingyue and Zhou, Shuntai and Higgins, Wayne and Zou, Cheng-Zhi and Liu, Quanhua and Chen, Yong and Han, Yong and Cucurull, Lidia and Reynolds, Richard W. and Rutledge, Glenn and Goldberg, Mitch},
+ doi = {10.1175/2010bams3001.1},
+ file = {:/home/kessler/docs/papers/saha_et_al_2010_ncep-climate-forecast-system-reanalysis.pdf:pdf},
+ journal = {Bulletin of the American Meteorological Society},
+ number = {8},
+ pages = {1015-1058},
+ title = {The NCEP Climate Forecast System Reanalysis},
+ url = {https://doi.org/10.1175/2010bams3001.1},
+ volume = {91},
+ year = {2010}
+}
+
+@article{saha2014,
+ author = {Saha, Suranjana and Moorthi, Shrinivas and Wu, Xingren and Wang, Jiande and Nadiga, Sudhir and Tripp, Patrick and Behringer, David and Hou, Yu-Tai and Chuang, Hui-ya and Iredell, Mark and Ek, Michael and Meng, Jesse and Yang, Rongqian and Mendez, Malaquías Peña and van den Dool, Huug and Zhang, Qin and Wang, Wanqiu and Chen, Mingyue and Becker, Emily},
+ doi = {10.1175/jcli-d-12-00823.1},
+ file = {:/home/kessler/docs/papers/saha_et_al_2014_ncep-climate-forecast-system-version.pdf:pdf},
+ journal = {Journal of Climate},
+ number = {6},
+ pages = {2185-2208},
+ title = {The NCEP Climate Forecast System Version 2},
+ url = {https://doi.org/10.1175/jcli-d-12-00823.1},
+ volume = {27},
+ year = {2014}
+}
+
+@article{sayers2019,
+ author = {Sayers, Michael J. and Grimm, Amanda G. and Shuchman, Robert A. and Bosse, Karl R. and Fahnenstiel, Gary L. and Ruberg, Steven A. and Leshkevich, George A.},
+ doi = {10.1016/j.jglr.2019.01.005},
+ file = {:/home/kessler/docs/papers/sayers_et_al_2019_satellite-monitoring-harmful-algal-blooms.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {3},
+ pages = {508-521},
+ title = {Satellite monitoring of harmful algal blooms in the Western Basin of Lake Erie: A 20-year time-series},
+ url = {https://doi.org/10.1016/j.jglr.2019.01.005},
+ volume = {45},
+ year = {2019}
+}
+
+@article{schloesser1985,
+ author = {Schloesser, Donald W. and Edsall, Thomas A. and Manny, Bruce A.},
+ doi = {10.1139/b85-145},
+ file = {:/home/kessler/docs/papers/schloesser_et_al_1985_growth-submersed-macrophyte-communities-clair.pdf:pdf},
+ journal = {Canadian Journal of Botany},
+ number = {6},
+ pages = {1061-1065},
+ title = {Growth of submersed macrophyte communities in the St. Clair – Detroit river system between Lake Huron and Lake Erie},
+ url = {https://doi.org/10.1139/b85-145},
+ volume = {63},
+ year = {1985}
+}
+
+@inproceedings{schneider2021,
+ author = {Schneider, Felix and Stüker, Sebastian and Parthasarathy, Vijay},
+ booktitle = {First Shared Task on Automatic Minuting at Interspeech 2021},
+ doi = {10.21437/automin.2021-11},
+ file = {:/home/kessler/docs/papers/schneider_et_al_2021_team-zoom-automin-2021-cross.pdf:pdf},
+ publisher = {ISCA},
+ title = {Team Zoom @ AutoMin 2021: Cross-domain Pretraining for Automatic Minuting},
+ url = {https://doi.org/10.21437/automin.2021-11},
+ year = {2021}
+}
+
+@article{schwab1992,
+ author = {Schwab, David J and Leshkevich, George A and Muhr, Glenn C},
+ file = {:/home/kessler/docs/papers/schwab_et_al_1992_satellite-measurements-surface-water-temperature.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {2},
+ pages = {247--258},
+ publisher = {Elsevier},
+ title = {Satellite measurements of surface water temperature in the Great Lakes: Great Lakes Coastwatch},
+ volume = {18},
+ year = {1992}
+}
+
+@article{schwab1999,
+ author = {Schwab, David J and Leshkevich, George A and Muhr, Glenn C},
+ file = {:/home/kessler/docs/papers/schwab_et_al_1999_automated-mapping-surface-water-temperature.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {3},
+ pages = {468--481},
+ publisher = {Elsevier},
+ title = {Automated mapping of surface water temperature in the Great Lakes},
+ volume = {25},
+ year = {1999}
+}
+
+@article{schwab2003,
+ author = {Schwab, David J. and Beletsky, Dmitry},
+ doi = {10.1029/2001jc001066},
+ file = {:/home/kessler/docs/papers/schwab_and_beletsky_2003_relative-effects-wind-stress-curl.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C2},
+ title = {Relative effects of wind stress curl, topography, and stratification on large‐scale circulation in Lake Michigan},
+ url = {https://doi.org/10.1029/2001jc001066},
+ volume = {108},
+ year = {2003}
+}
+
+@article{serrano-notivoli2017,
+ author = {Serrano-Notivoli, Roberto and de Luis, Martín and Beguería, Santiago},
+ doi = {10.1016/j.envsoft.2016.11.005},
+ file = {:/home/kessler/docs/papers/serrano-notivoli_et_al_2017_package-daily-precipitation-climate-series.pdf:pdf},
+ journal = {Environmental Modelling &amp; Software},
+ pages = {190-195},
+ title = {An R package for daily precipitation climate series reconstruction},
+ url = {https://doi.org/10.1016/j.envsoft.2016.11.005},
+ volume = {89},
+ year = {2017}
+}
+
+@article{shao2015,
+ author = {Shao, Changliang and Chen, Jiquan and Stepien, Carol A. and Chu, Housen and Ouyang, Zutao and Bridgeman, Thomas B. and Czajkowski, Kevin P. and Becker, Richard H. and John, Ranjeet},
+ doi = {10.1002/2015jg003025},
+ file = {:/home/kessler/docs/papers/shao_et_al_2015_diurnal-annual-changes-latent-sensible.pdf:pdf},
+ journal = {Journal of Geophysical Research: Biogeosciences},
+ number = {8},
+ pages = {1587-1604},
+ title = {Diurnal to annual changes in latent, sensible heat, and CO<sub>2</sub> fluxes over a Laurentian Great Lake: A case study in Western Lake Erie},
+ url = {https://doi.org/10.1002/2015jg003025},
+ volume = {120},
+ year = {2015}
+}
+
+@article{sharma2019,
+ author = {Sharma, Sapna and Blagrave, Kevin and Magnuson, John J. and O’Reilly, Catherine M. and Oliver, Samantha and Batt, Ryan D. and Magee, Madeline R. and Straile, Dietmar and Weyhenmeyer, Gesa A. and Winslow, Luke and Woolway, R. Iestyn},
+ doi = {10.1038/s41558-018-0393-5},
+ file = {:/home/kessler/docs/papers/sharma_et_al_2019_widespread-loss-lake-around-northern.pdf:pdf},
+ journal = {Nature Climate Change},
+ number = {3},
+ pages = {227-231},
+ title = {Widespread loss of lake ice around the Northern Hemisphere in a warming world},
+ url = {https://doi.org/10.1038/s41558-018-0393-5},
+ volume = {9},
+ year = {2019}
+}
+
+@article{sharma2020,
+ author = {Sharma, Sapna and Blagrave, Kevin and Watson, Simon R. and O’Reilly, Catherine M. and Batt, Ryan and Magnuson, John J. and Clemens, Tessa and Denfeld, Blaize A. and Flaim, Giovanna and Grinberga, Laura and Hori, Yukari and Laas, Alo and Knoll, Lesley B. and Straile, Dietmar and Takamura, Noriko and Weyhenmeyer, Gesa A.},
+ doi = {10.1371/journal.pone.0241222},
+ file = {:/home/kessler/docs/papers/sharma_et_al_2020_increased-winter-drownings-covered-regions.pdf:pdf},
+ journal = {PLOS ONE},
+ number = {11},
+ pages = {e0241222},
+ title = {Increased winter drownings in ice-covered regions with warmer winters},
+ url = {https://doi.org/10.1371/journal.pone.0241222},
+ volume = {15},
+ year = {2020}
+}
+
+@article{sharma2021,
+ author = {Sharma, Sapna and Blagrave, Kevin and Filazzola, Alessandro and Imrit, M. Arshad and Hendricks Franssen, Harrie‐Jan},
+ doi = {10.1029/2020gl091108},
+ file = {:/home/kessler/docs/papers/sharma_et_al_2021_forecasting-permanent-loss-lake-northern.pdf:pdf},
+ journal = {Geophysical Research Letters},
+ number = {1},
+ title = {Forecasting the Permanent Loss of Lake Ice in the Northern Hemisphere Within the 21st Century},
+ url = {https://doi.org/10.1029/2020gl091108},
+ volume = {48},
+ year = {2021}
+}
+
+@article{sharma2022,
+ author = {Sharma, Sapna and Filazzola, Alessandro and Nguyen, Thi and Imrit, M. Arshad and Blagrave, Kevin and Bouffard, Damien and Daly, Julia and Feldman, Harley and Feldsine, Natalie and Hendricks-Franssen, Harrie-Jan and Granin, Nikolay and Hecock, Richard and L’Abée-Lund, Jan Henning and Hopkins, Ed and Howk, Neil and Iacono, Michael and Knoll, Lesley B. and Korhonen, Johanna and Malmquist, Hilmar J. and Marszelewski, Włodzimierz and Matsuzaki, Shin-Ichiro S. and Miyabara, Yuichi and Miyasaka, Kiyoshi and Mills, Alexander and Olson, Lolita and Peters, Theodore W. and Richardson, David C. and Robertson, Dale M. and Rudstam, Lars and Wain, Danielle and Waterfield, Holly and Weyhenmeyer, Gesa A. and Wiltse, Brendan and Yao, Huaxia and Zhdanov, Andry and Magnuson, John J.},
+ doi = {10.1038/s41597-022-01391-6},
+ file = {:/home/kessler/docs/papers/sharma_et_al_2022_long-term-phenology-records-spanning.pdf:pdf},
+ journal = {Scientific Data},
+ number = {1},
+ title = {Long-term ice phenology records spanning up to 578 years for 78 lakes around the Northern Hemisphere},
+ url = {https://doi.org/10.1038/s41597-022-01391-6},
+ volume = {9},
+ year = {2022}
+}
+
+@article{sharma2024,
+ author = {Sharma, S. and Shchapov, K. and Culpepper, J. and Magnsuon, J. J.},
+ doi = {10.1029/2023jg007670},
+ file = {:/home/kessler/docs/papers/sharma_et_al_2024_lake-from-historical-records-contemporary.pdf:pdf},
+ journal = {Journal of Geophysical Research: Biogeosciences},
+ number = {4},
+ title = {Lake Ice From Historical Records to Contemporary Science},
+ url = {https://doi.org/10.1029/2023jg007670},
+ volume = {129},
+ year = {2024}
+}
+
+@article{shin2024,
+ author = {Shin, Satbyeol and Gronewold, Andrew D. and Fry, Lauren M. and Dugger, Aubrey and Kessler, James},
+ doi = {10.1080/02626667.2024.2378100},
+ file = {:/home/kessler/docs/papers/shin_et_al_2024_evaluating-surface-subsurface-fluxes-hydrological.pdf:pdf},
+ journal = {Hydrological Sciences Journal},
+ number = {11},
+ pages = {1539-1556},
+ title = {Evaluating surface and subsurface fluxes in hydrological models to advance basin-scale operational water supply forecasting},
+ url = {https://doi.org/10.1080/02626667.2024.2378100},
+ volume = {69},
+ year = {2024}
+}
+
+@article{shokr2023,
+ author = {Shokr, Mohammed and Dabboor, Mohammed},
+ doi = {10.1109/jstars.2023.3295735},
+ file = {:/home/kessler/docs/papers/shokr_and_dabboor_2023_polarimetric-applications-review.pdf:pdf},
+ journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+ pages = {6627-6641},
+ title = {Polarimetric SAR Applications of Sea Ice: A Review},
+ url = {https://doi.org/10.1109/jstars.2023.3295735},
+ volume = {16},
+ year = {2023}
+}
+
+@article{shuchman2013,
+ author = {Shuchman, Robert A. and Leshkevich, George and Sayers, Michael J. and Johengen, Thomas H. and Brooks, Colin N. and Pozdnyakov, Dmitry},
+ doi = {10.1016/j.jglr.2013.06.017},
+ file = {:/home/kessler/docs/papers/shuchman_et_al_2013_algorithm-retrieve-chlorophyll-dissolved-organic.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ pages = {14-33},
+ title = {An algorithm to retrieve chlorophyll, dissolved organic carbon, and suspended minerals from Great Lakes satellite data},
+ url = {https://doi.org/10.1016/j.jglr.2013.06.017},
+ volume = {39},
+ year = {2013}
+}
+
+@misc{somers2024,
+ author = {Somers, Lauren and Samways, Jenacy},
+ doi = {10.4211/hs.dd79c52e1125472dac602f7aa836165c},
+ file = {:/home/kessler/docs/papers/somers_and_samways_2024_mountain-groundwater-data-from-canada.pdf:pdf},
+ title = {Mountain Groundwater data from Canada and the US},
+ url = {https://doi.org/10.4211/hs.dd79c52e1125472dac602f7aa836165c},
+ year = {2024}
+}
+
+@article{son2020,
+ author = {Son, Seunghyun and Wang, Menghua},
+ doi = {10.3390/rs12101605},
+ file = {:/home/kessler/docs/papers/son_and_wang_2020_water-quality-properties-derived-from.pdf:pdf},
+ journal = {Remote Sensing},
+ number = {10},
+ pages = {1605},
+ title = {Water Quality Properties Derived from VIIRS Measurements in the Great Lakes},
+ url = {https://doi.org/10.3390/rs12101605},
+ volume = {12},
+ year = {2020}
+}
+
+@article{sorensen2024,
+ author = {Sorensen, Troy and Espey, Eamon and Kelley, John G. W. and Kessler, James and Gronewold, Andrew D.},
+ doi = {10.1038/s41597-024-03103-8},
+ file = {:/home/kessler/docs/papers/sorensen_et_al_2024_database-situ-water-temperatures-large.pdf:pdf},
+ journal = {Scientific Data},
+ number = {1},
+ title = {A database of in situ water temperatures for large inland lakes across the coterminous United States},
+ url = {https://doi.org/10.1038/s41597-024-03103-8},
+ volume = {11},
+ year = {2024}
+}
+
+@article{steele1992,
+ author = {Steele, Michael},
+ doi = {10.1029/92jc01755},
+ file = {:/home/kessler/docs/papers/steele_1992_melting-floe-geometry-simple-ocean.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {C11},
+ pages = {17729-17738},
+ title = {Sea ice melting and floe geometry in a simple ice‐ocean model},
+ url = {https://doi.org/10.1029/92jc01755},
+ volume = {97},
+ year = {1992}
+}
+
+@article{strong2014,
+ author = {Strong, C. and Kochanski, A. K. and Crosman, E. T.},
+ doi = {10.1002/2014ms000305},
+ file = {:/home/kessler/docs/papers/strong_et_al_2014_slab-model-great-salt-lake.pdf:pdf},
+ journal = {Journal of Advances in Modeling Earth Systems},
+ number = {3},
+ pages = {602-615},
+ title = {A slab model of the Great Salt Lake for regional climate simulation},
+ url = {https://doi.org/10.1002/2014ms000305},
+ volume = {6},
+ year = {2014}
+}
+
+@article{stumpf2003,
+ author = {Stumpf, Richard P. and Holderied, Kristine and Sinclair, Mark},
+ doi = {10.4319/lo.2003.48.1_part_2.0547},
+ file = {:/home/kessler/docs/papers/stumpf_et_al_2003_determination-water-depth-with-high.pdf:pdf},
+ journal = {Limnology and Oceanography},
+ number = {1part2},
+ pages = {547-556},
+ title = {Determination of water depth with high‐resolution satellite imagery over variable bottom types},
+ url = {https://doi.org/10.4319/lo.2003.48.1_part_2.0547},
+ volume = {48},
+ year = {2003}
+}
+
+@article{subin2012,
+ author = {Subin, Zachary M. and Riley, William J. and Mironov, Dmitrii},
+ doi = {10.1029/2011ms000072},
+ file = {:/home/kessler/docs/papers/subin_et_al_2012_improved-lake-model-climate-simulations.pdf:pdf},
+ journal = {Journal of Advances in Modeling Earth Systems},
+ number = {1},
+ title = {An improved lake model for climate simulations: Model structure, evaluation, and sensitivity analyses in CESM1},
+ url = {https://doi.org/10.1029/2011ms000072},
+ volume = {4},
+ year = {2012}
+}
+
+@article{titze2016,
+ author = {Titze, Daniel and Austin, Jay},
+ doi = {10.1016/j.jglr.2016.07.026},
+ file = {:/home/kessler/docs/papers/titze_and_austin_2016_novel-direct-observations-lake-superior.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {5},
+ pages = {997-1006},
+ title = {Novel, direct observations of ice on Lake Superior during the high ice coverage of winter 2013–2014},
+ url = {https://doi.org/10.1016/j.jglr.2016.07.026},
+ volume = {42},
+ year = {2016}
+}
+
+@article{trumpickas2009,
+ author = {Trumpickas, Justin and Shuter, Brian J. and Minns, Charles K.},
+ doi = {10.1016/j.jglr.2009.04.005},
+ file = {:/home/kessler/docs/papers/trumpickas_et_al_2009_forecasting-impacts-climate-change-great.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {3},
+ pages = {454-463},
+ title = {Forecasting impacts of climate change on Great Lakes surface water temperatures},
+ url = {https://doi.org/10.1016/j.jglr.2009.04.005},
+ volume = {35},
+ year = {2009}
+}
+
+@article{van-cleave2014,
+ author = {Van Cleave, Katherine and Lenters, John D. and Wang, Jia and Verhamme, Edward M.},
+ doi = {10.4319/lo.2014.59.6.1889},
+ file = {:/home/kessler/docs/papers/van-cleave_et_al_2014_regime-shift-lake-superior-cover.pdf:pdf},
+ journal = {Limnology and Oceanography},
+ number = {6},
+ pages = {1889-1898},
+ title = {A regime shift in Lake Superior ice cover, evaporation, and water temperature following the warm El Niñ winter of 1997–1998},
+ url = {https://doi.org/10.4319/lo.2014.59.6.1889},
+ volume = {59},
+ year = {2014}
+}
+
+@article{wang1994,
+ author = {Wang, Jia and Mysak, Lawrence A. and Ingram, R. Grant},
+ doi = {10.1080/07055900.1994.9649505},
+ file = {:/home/kessler/docs/papers/wang_et_al_1994_interannual-variability-cover-hudson-baffin.pdf:pdf},
+ journal = {Atmosphere-Ocean},
+ number = {2},
+ pages = {421-447},
+ title = {Interannual variability of sea‐ice cover in Hudson bay, Baffin bay and the Labrador sea},
+ url = {https://doi.org/10.1080/07055900.1994.9649505},
+ volume = {32},
+ year = {1994}
+}
+
+@article{wang1997,
+ author = {Wang, Jia and Ikeda, Moto},
+ doi = {10.1175/1520-0493(1997)125<2316:isapeo>2.0.co;2},
+ file = {:/home/kessler/docs/papers/wang_and_ikeda_1997_inertial-stability-phase-error-time.pdf:pdf},
+ journal = {Monthly Weather Review},
+ number = {9},
+ pages = {2316-2327},
+ title = {Inertial Stability and Phase Error of Time Integration Schemes in Ocean General Circulation Models},
+ url = {https://doi.org/10.1175/1520-0493(1997)125<2316:isapeo>2.0.co;2},
+ volume = {125},
+ year = {1997}
+}
+
+@article{wang2012,
+ author = {Wang, Jia and Bai, Xuezhi and Hu, Haoguo and Clites, Anne and Colton, Marie and Lofgren, Brent},
+ doi = {10.1175/2011jcli4066.1},
+ file = {:/home/kessler/docs/papers/wang_et_al_2012_temporal-spatial-variability-great-lakes.pdf:pdf},
+ journal = {Journal of Climate},
+ number = {4},
+ pages = {1318-1329},
+ title = {Temporal and Spatial Variability of Great Lakes Ice Cover, 1973–2010*},
+ url = {https://doi.org/10.1175/2011jcli4066.1},
+ volume = {25},
+ year = {2012}
+}
+
+@article{wang2015,
+ author = {Wang, Lizhu and Riseng, Catherine M. and Mason, Lacey A. and Wehrly, Kevin E. and Rutherford, Edward S. and McKenna, James E. and Castiglione, Chris and Johnson, Lucinda B. and Infante, Dana M. and Sowa, Scott and Robertson, Mike and Schaeffer, Jeff and Khoury, Mary and Gaiot, John and Hollenhorst, Tom and Brooks, Colin and Coscarelli, Mark},
+ doi = {10.1016/j.jglr.2015.03.017},
+ file = {:/home/kessler/docs/papers/wang_et_al_2015_spatial-classification-database-management-research.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {2},
+ pages = {584-596},
+ title = {A spatial classification and database for management, research, and policy making: The Great Lakes aquatic habitat framework},
+ url = {https://doi.org/10.1016/j.jglr.2015.03.017},
+ volume = {41},
+ year = {2015}
+}
+
+@article{wang2018,
+ author = {Wang, Jia and Kessler, James and Bai, Xuezhi and Clites, Anne and Lofgren, Brent and Assuncao, Alexandre and Bratton, John and Chu, Philip and Leshkevich, George},
+ doi = {10.1175/jcli-d-17-0283.1},
+ file = {:/home/kessler/docs/papers/wang_et_al_2018_decadal-variability-great-lakes-cover.pdf:pdf},
+ journal = {Journal of Climate},
+ number = {18},
+ pages = {7249-7268},
+ title = {Decadal Variability of Great Lakes Ice Cover in Response to AMO and PDO, 1963–2017},
+ url = {https://doi.org/10.1175/jcli-d-17-0283.1},
+ volume = {31},
+ year = {2018}
+}
+
+@article{wilkin2017,
+ author = {Wilkin, John and Rosenfeld, Leslie and Allen, Arthur and Baltes, Rebecca and Baptista, Antonio and He, Ruoying and Hogan, Patrick and Kurapov, Alexander and Mehra, Avichal and Quintrell, Josie and Schwab, David and Signell, Richard and Smith, Jane},
+ doi = {10.1080/1755876x.2017.1322026},
+ file = {:/home/kessler/docs/papers/wilkin_et_al_2017_advancing-coastal-ocean-modelling-analysis.pdf:pdf},
+ journal = {Journal of Operational Oceanography},
+ number = {2},
+ pages = {115-126},
+ title = {Advancing coastal ocean modelling, analysis, and prediction for the US Integrated Ocean Observing System},
+ url = {https://doi.org/10.1080/1755876x.2017.1322026},
+ volume = {10},
+ year = {2017}
+}
+
+@article{williamson2009,
+ author = {Williamson, Craig E. and Saros, Jasmine E. and Vincent, Warwick F. and Smol, John P.},
+ doi = {10.4319/lo.2009.54.6_part_2.2273},
+ file = {:/home/kessler/docs/papers/williamson_et_al_2009_lakes-reservoirs-sentinels-integrators-regulators.pdf:pdf},
+ journal = {Limnology and Oceanography},
+ number = {6part2},
+ pages = {2273-2282},
+ title = {Lakes and reservoirs as sentinels, integrators, and regulators of climate change},
+ url = {https://doi.org/10.4319/lo.2009.54.6_part_2.2273},
+ volume = {54},
+ year = {2009}
+}
+
+@article{wright2013,
+ author = {Wright, David M. and Posselt, Derek J. and Steiner, Allison L.},
+ doi = {10.1175/mwr-d-12-00038.1},
+ file = {:/home/kessler/docs/papers/wright_et_al_2013_sensitivity-lake-effect-snowfall-lake.pdf:pdf},
+ journal = {Monthly Weather Review},
+ number = {2},
+ pages = {670-689},
+ title = {Sensitivity of Lake-Effect Snowfall to Lake Ice Cover and Temperature in the Great Lakes Region},
+ url = {https://doi.org/10.1175/mwr-d-12-00038.1},
+ volume = {141},
+ year = {2013}
+}
+
+@article{wynne2010,
+ author = {Wynne, Timothy T. and Stumpf, Richard P. and Tomlinson, Michelle C. and Dyble, Julianne},
+ doi = {10.4319/lo.2010.55.5.2025},
+ file = {:/home/kessler/docs/papers/wynne_et_al_2010_characterizing-cyanobacterial-bloom-western-lake.pdf:pdf},
+ journal = {Limnology and Oceanography},
+ number = {5},
+ pages = {2025-2036},
+ title = {Characterizing a cyanobacterial bloom in Western Lake Erie using satellite imagery and meteorological data},
+ url = {https://doi.org/10.4319/lo.2010.55.5.2025},
+ volume = {55},
+ year = {2010}
+}
+
+@article{xiao2016,
+ author = {Xiao, Chuliang and Lofgren, Brent M. and Wang, Jia and Chu, Philip Y.},
+ doi = {10.1002/2016ms000717},
+ file = {:/home/kessler/docs/papers/xiao_et_al_2016_improving-lake-scheme-within-coupled.pdf:pdf},
+ journal = {Journal of Advances in Modeling Earth Systems},
+ number = {4},
+ pages = {1969-1985},
+ title = {Improving the lake scheme within a coupled WRF‐lake model in the <scp>L</scp>aurentian <scp>G</scp>reat <scp>L</scp>akes},
+ url = {https://doi.org/10.1002/2016ms000717},
+ volume = {8},
+ year = {2016}
+}
+
+@article{xu2016,
+ author = {Xu, Lujun and Liu, Huizhi and Du, Qun and Wang, Lei},
+ doi = {10.1002/2016jd025396},
+ file = {:/home/kessler/docs/papers/xu_et_al_2016_evaluation-lake-model-over-highland.pdf:pdf},
+ journal = {Journal of Geophysical Research: Atmospheres},
+ number = {23},
+ title = {Evaluation of the WRF‐lake model over a highland freshwater lake in southwest China},
+ url = {https://doi.org/10.1002/2016jd025396},
+ volume = {121},
+ year = {2016}
+}
+
+@article{yang2020,
+ author = {Yang, Ting-Yi and Kessler, James and Mason, Lacey and Chu, Philip Y. and Wang, Jia},
+ doi = {10.1038/s41597-020-00603-1},
+ file = {:/home/kessler/docs/papers/yang_et_al_2020_consistent-great-lakes-cover-digital.pdf:pdf},
+ journal = {Scientific Data},
+ number = {1},
+ title = {A consistent Great Lakes ice cover digital data set for winters 1973–2019},
+ url = {https://doi.org/10.1038/s41597-020-00603-1},
+ volume = {7},
+ year = {2020}
+}
+
+@article{yin2020,
+ author = {Yin, Dongxiao and Xue, Z. George and Gochis, David J. and Yu, Wei and Morales, Mirce and Rafieeinasab, Arezoo},
+ doi = {10.3390/w12061840},
+ file = {:/home/kessler/docs/papers/yin_et_al_2020_process-based-fully-distributed-soil.pdf:pdf},
+ journal = {Water},
+ number = {6},
+ pages = {1840},
+ title = {A Process-Based, Fully Distributed Soil Erosion and Sediment Transport Model for WRF-Hydro},
+ url = {https://doi.org/10.3390/w12061840},
+ volume = {12},
+ year = {2020}
+}
+
+@article{zhang2020,
+ author = {Zhang, Yinglong J. and Ye, Fei and Yu, Haocheng and Sun, Weiling and Moghimi, Saeed and Myers, Edward and Nunez, Karinna and Zhang, Ruoyin and Wang, Harry and Roland, Aron and Du, Jiabi and Liu, Zhuo},
+ doi = {10.1007/s10236-020-01351-x},
+ file = {:/home/kessler/docs/papers/zhang_et_al_2020_simulating-compound-flooding-events-hurricane.pdf:pdf},
+ journal = {Ocean Dynamics},
+ number = {5},
+ pages = {621-640},
+ title = {Simulating compound flooding events in a hurricane},
+ url = {https://doi.org/10.1007/s10236-020-01351-x},
+ volume = {70},
+ year = {2020}
+}
