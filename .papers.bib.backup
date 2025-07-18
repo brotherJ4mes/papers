@@ -623,6 +623,17 @@ Reanalysis Based on the GEM Atmospheric Model},
  year = {2018}
 }
 
+@article{grunert2025,
+ author = {Grunert, Brice and Ciochetto, Audrey and Mouw, Colleen},
+ doi = {10.3389/fmars.2025.1549312},
+ file = {:/home/kessler/docs/papers/grunert_et_al_2025_hyperspectral-approach-retrieving-inherent-optical.pdf:pdf},
+ journal = {Frontiers in Marine Science},
+ title = {A hyperspectral approach for retrieving inherent optical properties, phytoplankton pigments, and associated uncertainties from non-water absorption},
+ url = {https://doi.org/10.3389/fmars.2025.1549312},
+ volume = {12},
+ year = {2025}
+}
+
 @article{gu2015,
  author = {Gu, Hongping and Jin, Jiming and Wu, Yihua and Ek, Michael B. and Subin, Zachary M.},
  doi = {10.1007/s10584-013-0978-y},
