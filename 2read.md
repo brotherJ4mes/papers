@@ -7,8 +7,20 @@ ice:
 - [ ] richardson_et_al_2024_nonlinear-responses-interannual-variability-lake.pdf
 - [ ] magnuson_et_al_2000_historical-trends-lake-river-cover.pdf
 - [x] sharma_et_al_2019_widespread-loss-lake-around-northern.pdf
+- [ ] culpepper_et_al_2025_hundred-fundamental-open-questions-integrate.pdf
+
+
+
+
+
 
 remsens:
+  (hyperspectral)
+
+- [ ] bhargava_et_al_2024_hyperspectral-imaging-applications-review.pdf
+- [ ] han_et_al_2017_detection-based-improved-similarity-measurement.pdf
+- [ ] han_et_al_2019_hyperspectral-image-classification-based-spectral.pdf
+- [ ] salvatori_et_al_2022_collection-hyperspectral-measurements-snow-covers.pdf
 
 - [ ] 
 - [ ] grunert_et_al_2018_quantifying-influence-cold-water-intrusions.pdf
@@ -48,8 +60,3 @@ general:
 
 non-local:
 - [ ] Seeing the Invisible Present and Place: From Years to Centuries with Lake Ice from Wisconsin to the Northern Hemisphere
-shokr_and_dabboor_2023_polarimetric-applications-review.pdf
-bhargava_et_al_2024_hyperspectral-imaging-applications-review.pdf
-han_et_al_2017_detection-based-improved-similarity-measurement.pdf
-han_et_al_2019_hyperspectral-image-classification-based-spectral.pdf
-salvatori_et_al_2022_collection-hyperspectral-measurements-snow-covers.pdf
