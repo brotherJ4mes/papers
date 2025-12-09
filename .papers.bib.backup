@@ -374,6 +374,18 @@
  year = {1994}
 }
 
+@article{culpepper2025,
+ author = {Culpepper, Joshua and Sharma, Sapna and Gunn, Grant and Magee, Madeline R. and Meyer, Michael F. and Anderson, Eric J. and Arp, Chris and Cooley, Sarah W. and Dolan, Wayana and Dugan, Hilary A. and Duguay, Claude R. and Jones, Benjamin M. and Kirillin, Georgiy and Ladwig, Robert and Leppäranta, Matti and Long, Di and Magnuson, John J. and Pavelsky, Tamlin and Piccolroaz, Sebastiano and Robertson, Dale M. and Steele, Bethel G. and Tom, Manu and Weyhenmeyer, Gesa A. and Woolway, R. Iestyn and Xenopoulos, Marguerite A. and Yang, Xiao},
+ doi = {10.1029/2024wr039042},
+ file = {:/home/kessler/docs/papers/culpepper_et_al_2025_hundred-fundamental-open-questions-integrate.pdf:pdf},
+ journal = {Water Resources Research},
+ number = {5},
+ title = {One‐Hundred Fundamental, Open Questions to Integrate Methodological Approaches in Lake Ice Research},
+ url = {https://doi.org/10.1029/2024wr039042},
+ volume = {61},
+ year = {2025}
+}
+
 @article{del-giudice2018,
  author = {Del Giudice, Dario and Zhou, Yuntao and Sinha, Eva and Michalak, Anna M.},
  doi = {10.1021/acs.est.7b04730},
@@ -840,6 +852,19 @@ contributions to snowmelt},
  year = {2019}
 }
 
+@article{jishad2022,
+ author = {Jishad, M. and Agarwal, Neeraj},
+ doi = {10.1007/s12524-022-01527-6},
+ file = {:/home/kessler/docs/papers/jishad_and_agarwal_2022_thermal-front-detection-using-satellite.pdf:pdf},
+ journal = {Journal of the Indian Society of Remote Sensing},
+ number = {7},
+ pages = {1291-1299},
+ title = {Thermal Front Detection Using Satellite-Derived Sea Surface Temperature in the Northern Indian Ocean: Evaluation of Gradient-Based and Histogram-Based Methods},
+ url = {https://doi.org/10.1007/s12524-022-01527-6},
+ volume = {50},
+ year = {2022}
+}
+
 @article{jordan1999,
  author = {Jordan, Rachel E. and Andreas, Edgar L and Makshtas, Aleksandr P.},
  doi = {10.1029/1999jc900011},
@@ -1203,6 +1228,18 @@ contributions to snowmelt},
  url = {https://doi.org/10.1029/2018jc013786},
  volume = {123},
  year = {2018}
+}
+
+@article{peter2025,
+ author = {Peter, Isabella and Anderson, Eric J. and Siegfried, Matthew R. and Kurtz, Nathan T.},
+ doi = {10.1029/2024ea004155},
+ file = {:/home/kessler/docs/papers/peter_et_al_2025_novel-algorithm-water-discrimination-large.pdf:pdf},
+ journal = {Earth and Space Science},
+ number = {6},
+ title = {A Novel Algorithm for Ice‐Water Discrimination in Large Lakes Using ICESat‐2 Altimetry and Data Driven Machine Learning},
+ url = {https://doi.org/10.1029/2024ea004155},
+ volume = {12},
+ year = {2025}
 }
 
 @article{posselt2017,

@@ -8,6 +8,7 @@ ice:
 - [ ] magnuson_et_al_2000_historical-trends-lake-river-cover.pdf
 - [x] sharma_et_al_2019_widespread-loss-lake-around-northern.pdf
 - [ ] culpepper_et_al_2025_hundred-fundamental-open-questions-integrate.pdf
+- [ ] peter_et_al_2025_novel-algorithm-water-discrimination-large.pdf
 
 
 
@@ -22,7 +23,6 @@ remsens:
 - [ ] han_et_al_2019_hyperspectral-image-classification-based-spectral.pdf
 - [ ] salvatori_et_al_2022_collection-hyperspectral-measurements-snow-covers.pdf
 
-- [ ] 
 - [ ] grunert_et_al_2018_quantifying-influence-cold-water-intrusions.pdf
 - [ ] grunert_et_al_2025_hyperspectral-approach-retrieving-inherent-optical.pdf 
 - [ ] gordon_2005_normalized-water-leaving-radiance-revisiting.pdf
@@ -56,6 +56,7 @@ general:
 - [ ] anderson_et_al_2024_indications-changing-winter-through-lens.pdf
 - [ ] fernandez_et_al_2000_surface-current-measurements-radar-freshwater.pdf
 - [ ] sharma_et_al_2020_increased-winter-drownings-covered-regions.pdf
+- [ ] austin_2025_simple-linear-models-coastal-setup.pdf
 
 
 non-local:
