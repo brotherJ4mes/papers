@@ -13,8 +13,6 @@ ice:
 
 
 
-
-
 remsens:
   (hyperspectral)
 
@@ -23,7 +21,6 @@ remsens:
 - [ ] han_et_al_2019_hyperspectral-image-classification-based-spectral.pdf
 - [ ] salvatori_et_al_2022_collection-hyperspectral-measurements-snow-covers.pdf
 
-- [ ] grunert_et_al_2018_quantifying-influence-cold-water-intrusions.pdf
 - [ ] grunert_et_al_2025_hyperspectral-approach-retrieving-inherent-optical.pdf 
 - [ ] gordon_2005_normalized-water-leaving-radiance-revisiting.pdf
 - [ ] kalalo_et_al_2025_role-building-community-morality-indah.pdf
@@ -42,6 +39,7 @@ remsens:
 
 
 general: 
+- [ ] grunert_et_al_2018_quantifying-influence-cold-water-intrusions.pdf
 - [ ] austin_2025_simple-linear-models-coastal-setup.pdf
 - [ ] somers_and_samways_2024_mountain-groundwater-data-from-canada.pdf
 - [ ] duran_et_al_2018_extracting-quasi-steady-lagrangian-transport.pdf
@@ -50,7 +48,7 @@ general:
 - [ ] austin_and_colman_2007_lake-superior-summer-water-temperatures.pdf
 - [ ] kunz_et_al_2024_transient-attracting-profiles-great-pacific.pdf
 - [ ] mccaslin_et_al_2024_dataset-laser-ultrasound-system-invasively.pdf
-- [ ] austin_et_al_2025_winter-thermal-structure-across-laurentian.pdf
+- [x] austin_et_al_2025_winter-thermal-structure-across-laurentian.pdf
 - [ ] kayastha_et_al_2023_reconstructing-years-1979-2020-great.pdf
 - [ ] choi_et_al_2020_yittrium-ibritumomab-tiuxetan-zevalin-treatment.pdf
 - [ ] meadows_et_al_2013_high-frequency-radar-application-fresh.pdf
