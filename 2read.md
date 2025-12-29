@@ -21,7 +21,7 @@ remsens:
 - [ ] han_et_al_2019_hyperspectral-image-classification-based-spectral.pdf
 - [ ] salvatori_et_al_2022_collection-hyperspectral-measurements-snow-covers.pdf
 
-- [ ] grunert_et_al_2025_hyperspectral-approach-retrieving-inherent-optical.pdf 
+- [x] grunert_et_al_2025_hyperspectral-approach-retrieving-inherent-optical.pdf 
 - [ ] gordon_2005_normalized-water-leaving-radiance-revisiting.pdf
 - [ ] kalalo_et_al_2025_role-building-community-morality-indah.pdf
 - [ ] gladkova_et_al_2015_pattern-test-acspo-clear-mask.pdf
@@ -31,7 +31,7 @@ remsens:
 - [ ] sayers_et_al_2019_satellite-monitoring-harmful-algal-blooms.pdf
 - [x] son_and_wang_2020_water-quality-properties-derived-from.pdf
 - [ ] lee_et_al_2007_determination-primary-spectral-bands-remote.pdf
-- [ ] schwab_leshkevich_muhr_1999.pdf
+- [x] schwab_leshkevich_muhr_1999.pdf
 - [ ] schwab_lesh_muhr_1992.pdf
 - [ ] bosse_et_al_2024_harmful-algal-blooms-increasing-great.pdf
 - [ ] stumpf_et_al_2003_determination-water-depth-with-high.pdf
