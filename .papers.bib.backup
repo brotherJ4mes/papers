@@ -68,6 +68,18 @@
  year = {2024}
 }
 
+@article{anderson2025,
+ author = {Anderson, Eric J. and Gronewold, Andrew D.},
+ doi = {10.1029/2025gl117112},
+ file = {:/home/kessler/docs/papers/anderson_and_gronewold_2025_does-cover-evaporation-large-lakes.pdf:pdf},
+ journal = {Geophysical Research Letters},
+ number = {19},
+ title = {Does Ice Cover Cap Evaporation in Large Lakes?},
+ url = {https://doi.org/10.1029/2025gl117112},
+ volume = {52},
+ year = {2025}
+}
+
 @article{assel2004,
  author = {Assel, Raymond and Drobot, Sheldon and Croley, Thomas E.},
  doi = {10.1175/1525-7541(2004)005<0713:idglic>2.0.co;2},
