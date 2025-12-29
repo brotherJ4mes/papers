@@ -13,14 +13,14 @@ ice:
 
 
 
-remsens:
-  (hyperspectral)
+hyperspectral:
 
 - [ ] bhargava_et_al_2024_hyperspectral-imaging-applications-review.pdf
 - [ ] han_et_al_2017_detection-based-improved-similarity-measurement.pdf
 - [ ] han_et_al_2019_hyperspectral-image-classification-based-spectral.pdf
 - [ ] salvatori_et_al_2022_collection-hyperspectral-measurements-snow-covers.pdf
 
+RemSens:
 - [x] grunert_et_al_2025_hyperspectral-approach-retrieving-inherent-optical.pdf 
 - [ ] gordon_2005_normalized-water-leaving-radiance-revisiting.pdf
 - [ ] kalalo_et_al_2025_role-building-community-morality-indah.pdf
