@@ -44,8 +44,9 @@ general:
 - [ ] somers_and_samways_2024_mountain-groundwater-data-from-canada.pdf
 - [ ] duran_et_al_2018_extracting-quasi-steady-lagrangian-transport.pdf
 - [ ] lodge_2024_lessons-learned-from-edna-adoption.pdf
-- [ ] trumpickas_et_al_2009_forecasting-impacts-climate-change-great.pdf
 - [ ] austin_and_colman_2007_lake-superior-summer-water-temperatures.pdf
+- [ ] trumpickas_et_al_2009_forecasting-impacts-climate-change-great.pdf
+- [ ] trumpickas_et_al_2015_characterizing-patterns-nearshore-water-temperature.pdf
 - [ ] kunz_et_al_2024_transient-attracting-profiles-great-pacific.pdf
 - [ ] mccaslin_et_al_2024_dataset-laser-ultrasound-system-invasively.pdf
 - [x] austin_et_al_2025_winter-thermal-structure-across-laurentian.pdf
