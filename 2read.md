@@ -9,7 +9,7 @@ ice:
 - [x] sharma_et_al_2019_widespread-loss-lake-around-northern.pdf
 - [ ] culpepper_et_al_2025_hundred-fundamental-open-questions-integrate.pdf
 - [ ] peter_et_al_2025_novel-algorithm-water-discrimination-large.pdf
-- [ ] anderson_and_gronewold_2025_does-cover-evaporation-large-lakes.pdf
+- [x] anderson_and_gronewold_2025_does-cover-evaporation-large-lakes.pdf
 
 
 
@@ -40,7 +40,7 @@ RemSens:
 
 general: 
 - [ ] grunert_et_al_2018_quantifying-influence-cold-water-intrusions.pdf
-- [ ] austin_2025_simple-linear-models-coastal-setup.pdf
+- [x] austin_2025_simple-linear-models-coastal-setup.pdf
 - [ ] somers_and_samways_2024_mountain-groundwater-data-from-canada.pdf
 - [ ] duran_et_al_2018_extracting-quasi-steady-lagrangian-transport.pdf
 - [ ] lodge_2024_lessons-learned-from-edna-adoption.pdf
