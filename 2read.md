@@ -10,6 +10,7 @@ ice:
 - [ ] culpepper_et_al_2025_hundred-fundamental-open-questions-integrate.pdf
 - [ ] peter_et_al_2025_novel-algorithm-water-discrimination-large.pdf
 - [x] anderson_and_gronewold_2025_does-cover-evaporation-large-lakes.pdf
+- [ ] maksym (unknown_10-1146-annurev-marine-010816.pdf)
 
 
 
@@ -36,6 +37,7 @@ RemSens:
 - [ ] bosse_et_al_2024_harmful-algal-blooms-increasing-great.pdf
 - [ ] stumpf_et_al_2003_determination-water-depth-with-high.pdf
 - [ ] robinson_et_al_2007_global_ocean_data_assimilation_experiment.pdf
+- [ ] mccann_et_al_2024_airborne-system-simultaneous-high-resolution.pdf    
 
 
 general: 
