@@ -1131,6 +1131,19 @@ contributions to snowmelt},
  year = {2016}
 }
 
+@article{mccann2024,
+ author = {McCann, David L. and Martin, Adrien C. H. and de Macedo, Karlus A. C. and Carrasco Alvarez, Ruben and Horstmann, Jochen and Marié, Louis and Márquez-Martínez, José and Portabella, Marcos and Meta, Adriano and Gommenginger, Christine and Martin-Iglesias, Petronilo and Casal, Tania},
+ doi = {10.5194/os-20-1109-2024},
+ file = {:/home/kessler/docs/papers/mccann_et_al_2024_airborne-system-simultaneous-high-resolution.pdf:pdf},
+ journal = {Ocean Science},
+ number = {5},
+ pages = {1109-1122},
+ title = {A new airborne system for simultaneous high-resolution ocean vector current and wind mapping: first demonstration of the SeaSTAR mission concept in the macrotidal Iroise Sea},
+ url = {https://doi.org/10.5194/os-20-1109-2024},
+ volume = {20},
+ year = {2024}
+}
+
 @misc{mccaslin2024,
  author = {McCaslin, James Christopher and Mikesell, T. Dylan and Marshall, Hans-Peter},
  doi = {10.18122/cryogars_snow_data.1.boisestate},
@@ -1227,6 +1240,18 @@ contributions to snowmelt},
  url = {https://doi.org/10.1515/hf-2019-0218},
  volume = {74},
  year = {2020}
+}
+
+@article{ozersky2021,
+ author = {Ozersky, Ted and Bramburger, Andrew J. and Elgin, Ashley K. and Vanderploeg, Henry A. and Wang, Jia and Austin, Jay A. and Carrick, Hunter J. and Chavarie, Louise and Depew, David C. and Fisk, Aaron T. and Hampton, Stephanie E. and Hinchey, Elizabeth K. and North, Rebecca L. and Wells, Mathew G. and Xenopoulos, Marguerite A. and Coleman, Maureen L. and Duhaime, Melissa B. and Fujisaki‐Manome, Ayumi and McKay, R. Michael and Meadows, Guy A. and Rowe, Mark D. and Sharma, Sapna and Twiss, Michael R. and Zastepa, Arthur},
+ doi = {10.1029/2021jg006247},
+ file = {:/home/kessler/docs/papers/ozersky_et_al_2021_changing-face-winter-lessons-questions.pdf:pdf},
+ journal = {Journal of Geophysical Research: Biogeosciences},
+ number = {6},
+ title = {The Changing Face of Winter: Lessons and Questions From the Laurentian Great Lakes},
+ url = {https://doi.org/10.1029/2021jg006247},
+ volume = {126},
+ year = {2021}
 }
 
 @article{p-kirtman2014,

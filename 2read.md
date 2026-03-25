@@ -11,6 +11,8 @@ ice:
 - [ ] peter_et_al_2025_novel-algorithm-water-discrimination-large.pdf
 - [x] anderson_and_gronewold_2025_does-cover-evaporation-large-lakes.pdf
 - [ ] maksym (unknown_10-1146-annurev-marine-010816.pdf)
+- [ ] ozersky_et_al_2021_changing-face-winter-lessons-questions.pdf
+- [ ] kwok_et_al_2019_surface-height-freeboard-arctic-ocean.pdf
 
 
 
