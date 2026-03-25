@@ -932,7 +932,7 @@ contributions to snowmelt},
 @article{kelly2024,
  author = {Kelly, Samuel M. and Mansur, Maqsood and Green, Erica},
  doi = {10.1175/jpo-d-23-0079.1},
- file = {:/home/kessler/docs/papers/kelly_et_al_2024_predicting-surface-oscillations-lake-superior.pdf:pdf},
+ file = {:/home/kessler/docs/papers/kelly_et_al_2024_predicting-surface-oscillations-lake-superior/kelly_et_al_2024_predicting-surface-oscillations-lake-superior.pdf:pdf;:/home/kessler/docs/papers/kelly_et_al_2024_predicting-surface-oscillations-lake-superior/Predicting_surface_oscillations_in_Lake_Superior_f.pdf:pdf},
  journal = {Journal of Physical Oceanography},
  number = {2},
  pages = {427-444},
@@ -965,6 +965,19 @@ contributions to snowmelt},
  url = {https://doi.org/10.5194/os-20-1611-2024},
  volume = {20},
  year = {2024}
+}
+
+@article{kwok2019,
+ author = {Kwok, R. and Markus, T. and Kurtz, N. T. and Petty, A. A. and Neumann, T. A. and Farrell, S. L. and Cunningham, G. F. and Hancock, D. W. and Ivanoff, A. and Wimert, J. T.},
+ doi = {10.1029/2019jc015486},
+ file = {:/home/kessler/docs/papers/kwok_et_al_2019_surface-height-freeboard-arctic-ocean.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {10},
+ pages = {6942-6959},
+ title = {Surface Height and Sea Ice Freeboard of the Arctic Ocean From ICESat‐2: Characteristics and Early Results},
+ url = {https://doi.org/10.1029/2019jc015486},
+ volume = {124},
+ year = {2019}
 }
 
 @article{lee2007,

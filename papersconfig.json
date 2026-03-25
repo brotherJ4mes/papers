@@ -1,0 +1,33 @@
+{
+  "absolute_paths": true,
+  "backup_files": false,
+  "bibtex": "/home/kessler/docs/papers/papers.bib",
+  "editor": null,
+  "filesdir": "/home/kessler/docs/papers",
+  "git": false,
+  "gitdir": "/home/kessler/.local/share/papers/backups/home-kessler-docs-papers-papers",
+  "gitlfs": false,
+  "keyformat": {
+    "author_num": 1,
+    "author_sep": "_",
+    "template": "{author}{year}",
+    "title_length": 100,
+    "title_sep": "-",
+    "title_word_num": 100,
+    "title_word_size": 1,
+    "unknown_strict": false,
+    "unknown_template": "{doi}"
+  },
+  "local": false,
+  "nameformat": {
+    "author_num": 2,
+    "author_sep": "_",
+    "template": "{authorX}_{year}_{title}",
+    "title_length": 100,
+    "title_sep": "-",
+    "title_word_num": 5,
+    "title_word_size": 4,
+    "unknown_strict": false,
+    "unknown_template": "unknown_{doi_or_id}"
+  }
+}

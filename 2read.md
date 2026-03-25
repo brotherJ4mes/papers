@@ -15,6 +15,9 @@ ice:
 - [ ] kwok_et_al_2019_surface-height-freeboard-arctic-ocean.pdf
 
 
+dynamics:
+
+- [ ] kelly_et_al_2024_predicting-surface-oscillations-lake-superior.pdf
 
 hyperspectral:
 
