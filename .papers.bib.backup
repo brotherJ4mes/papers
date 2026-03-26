@@ -1280,6 +1280,19 @@ contributions to snowmelt},
  year = {2014}
 }
 
+@article{pendrill2021,
+ author = {Pendrill, L.R. and Allard, A. and Fischer, N. and Harris, P.M. and Nguyen, J. and Smith, I.M.},
+ doi = {10.51843/measure.13.1.6},
+ file = {:/home/kessler/docs/papers/pendrill_et_al_2021_full-issue-download-2021-importance.pdf:pdf},
+ journal = {NCSL International measure},
+ number = {1},
+ pages = {58-69},
+ title = {Full Issue Download Vol. 13 No. 1 2021   The Importance of the Measurement Infrastructure in Economic Recovery from the COVID-19 Pandemic  Richard J. C. Brown , Fiona Auty, Eugenio Renedo, Mike King  NCSLI Measure | Vol. 13 No. 1 (2021) | doi.org/10.51843/measure.13.1.1 Publisher NCSL International | Published February 2021 | Pages 18-21  Abstract: This paper describes the many, evidenced-based benefits to the economy of a well-developed measurement infrastructure. In particular, it explains how assuring confidence in measurement may be used to accelerate economic recovery from the COVID-19 pandemic including in emerging sectors such as the digital economy. Recommendations are made for providing near term support for national economic recovery whilst also demonstrating the advantages of sustained development of the measurement infrastructure in the medium-term to maximize the potential of future innovative and disruptive technologies. These recommendations, whilst focused on consideration of the UK, should apply globally.  References:  [1] G. Tassey, "Underinvestment in public good technologies," J Technol. Transfer, Vol. 30, pp. 89-113, 2004. https://doi.org/10.1007/s10961-004-4360-0 [2] M. King, and E. Renedo, "Achieving the 2.4},
+ url = {https://doi.org/10.51843/measure.13.1.6},
+ volume = {13},
+ year = {2021}
+}
+
 @article{persson2018,
  author = {Persson, P. Ola G. and Blomquist, Byron and Guest, Peter and Stammerjohn, Sharon and Fairall, Christopher and Rainville, Luc and Lund, Björn and Ackley, Stephen and Thomson, Jim},
  doi = {10.1029/2018jc013786},

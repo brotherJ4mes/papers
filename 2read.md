@@ -17,7 +17,9 @@ ice:
 
 dynamics:
 
-- [ ] kelly_et_al_2024_predicting-surface-oscillations-lake-superior.pdf
+- [x] kelly_et_al_2024_predicting-surface-oscillations-lake-superior.pdf
+- [ ] sam other swot papers
+- [ ] russell_et_al_2026_sensitivity-circulation-thermal-structure-transient.pdf
 
 hyperspectral:
 
