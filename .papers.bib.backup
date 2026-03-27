@@ -954,6 +954,18 @@ contributions to snowmelt},
  year = {2025}
 }
 
+@article{king2026,
+ author = {King, Katelyn and Fujisaki-Manome, Ayumi and Brant, Cory and Cohn, Danielle and Peng, Inigo and Alofs, Karen},
+ doi = {10.1038/s41597-026-06637-1},
+ file = {:/home/kessler/Downloads/Reconstructing_Great_Lakes_air_temperature_and_ice.pdf:pdf},
+ journal = {Scientific Data},
+ number = {1},
+ title = {Reconstructing Great Lakes air temperature and ice dynamics data back to 1897},
+ url = {https://doi.org/10.1038/s41597-026-06637-1},
+ volume = {13},
+ year = {2026}
+}
+
 @article{kunz2024,
  author = {Kunz, Luca and Griesel, Alexa and Eden, Carsten and Duran, Rodrigo and Sainte-Rose, Bruno},
  doi = {10.5194/os-20-1611-2024},
@@ -1357,6 +1369,17 @@ contributions to snowmelt},
  year = {2024}
 }
 
+@article{russell2026,
+ author = {Russell, David and Hoffman, Matthew J. and Ide, Kayo},
+ doi = {10.1016/j.jglr.2026.102786},
+ file = {:/home/kessler/docs/papers/russell_et_al_2026_sensitivity-circulation-thermal-structure-transient.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ pages = {102786},
+ title = {Sensitivity of circulation, thermal structure, and transient features to surface forcing in a Lake Erie FVCOM model},
+ url = {https://doi.org/10.1016/j.jglr.2026.102786},
+ year = {2026}
+}
+
 @article{saha2006,
  author = {Saha, S. and Nadiga, S. and Thiaw, C. and Wang, J. and Wang, W. and Zhang, Q. and Van den Dool, H. M. and Pan, H.-L. and Moorthi, S. and Behringer, D. and Stokes, D. and Peña, M. and Lord, S. and White, G. and Ebisuzaki, W. and Peng, P. and Xie, P.},
  doi = {10.1175/jcli3812.1},
@@ -1741,6 +1764,19 @@ contributions to snowmelt},
  year = {2015}
 }
 
+@article{twiss2012,
+ author = {Twiss, M.R. and McKay, R.M.L. and Bourbonniere, R.A. and Bullerjahn, G.S. and Carrick, H.J. and Smith, R.E.H. and Winter, J.G. and D'souza, N.A. and Furey, P.C. and Lashaway, A.R. and Saxton, M.A. and Wilhelm, S.W.},
+ doi = {10.1016/j.jglr.2011.12.008},
+ file = {:/home/kessler/docs/papers/twiss_et_al_2012_diatoms-abound-covered-lake-erie.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {1},
+ pages = {18-30},
+ title = {Diatoms abound in ice-covered Lake Erie: An investigation of offshore winter limnology in Lake Erie over the period 2007 to 2010},
+ url = {https://doi.org/10.1016/j.jglr.2011.12.008},
+ volume = {38},
+ year = {2012}
+}
+
 @article{van-cleave2014,
  author = {Van Cleave, Katherine and Lenters, John D. and Wang, Jia and Verhamme, Edward M.},
  doi = {10.4319/lo.2014.59.6.1889},
@@ -1906,6 +1942,18 @@ contributions to snowmelt},
  url = {https://doi.org/10.1038/s41597-020-00603-1},
  volume = {7},
  year = {2020}
+}
+
+@article{yang2026,
+ author = {Yang, Chu-Fang and Spica, Zack and Fujisaki-Manome, Ayumi and Miao, Yaolin},
+ doi = {10.1038/s43247-026-03182-y},
+ file = {:/home/kessler/docs/papers/yang_et_al_2026_fiber-optic-observations-capture-wind.pdf:pdf},
+ journal = {Communications Earth    amp; Environment},
+ number = {1},
+ title = {Fiber-optic observations capture wind wave evolution in Lake Ontario},
+ url = {https://doi.org/10.1038/s43247-026-03182-y},
+ volume = {7},
+ year = {2026}
 }
 
 @article{yin2020,
