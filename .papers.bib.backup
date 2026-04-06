@@ -106,6 +106,19 @@
  year = {2004}
 }
 
+@article{assel2005,
+ author = {Assel, Raymond A.},
+ doi = {10.1175/jcli3571.1},
+ file = {:/home/kessler/docs/papers/assel_2005_classification-annual-great-lakes-cycles.pdf:pdf},
+ journal = {Journal of Climate},
+ number = {22},
+ pages = {4895-4905},
+ title = {Classification of Annual Great Lakes Ice Cycles: Winters of 1973–2002*},
+ url = {https://doi.org/10.1175/jcli3571.1},
+ volume = {18},
+ year = {2005}
+}
+
 @article{austin2007,
  author = {Austin, Jay A. and Colman, Steven M.},
  doi = {10.1029/2006gl029021},
@@ -1980,6 +1993,15 @@ contributions to snowmelt},
  url = {https://doi.org/10.1007/s10236-020-01351-x},
  volume = {70},
  year = {2020}
+}
+
+@misc{zhao2025,
+ author = {Zhao, Mengnan and Little, Christopher and Kurtz, Nathan and Tilling, Rachel and Wimert, Jesse},
+ doi = {10.5194/egusphere-2025-6155},
+ file = {:/home/kessler/docs/papers/zhao_et_al_2025_climatology-interannual-variations-arctic-winter.pdf:pdf},
+ title = {Climatology and Interannual Variations in Arctic Winter Sea Ice Leads in the ICESat-2 Era},
+ url = {https://doi.org/10.5194/egusphere-2025-6155},
+ year = {2025}
 }
 
 @article{zhou2015,

@@ -4,7 +4,8 @@ machine learning:
 
 ice:
 
-- [ ] richardson_et_al_2024_nonlinear-responses-interannual-variability-lake.pdf
+- [x] assel_2005_classification-annual-great-lakes-cycles.pdf
+- [x] richardson_et_al_2024_nonlinear-responses-interannual-variability-lake.pdf
 - [ ] magnuson_et_al_2000_historical-trends-lake-river-cover.pdf
 - [x] sharma_et_al_2019_widespread-loss-lake-around-northern.pdf
 - [ ] culpepper_et_al_2025_hundred-fundamental-open-questions-integrate.pdf
