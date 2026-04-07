@@ -1,0 +1,12 @@
+[260234:0407/121739.314724:ERROR:mime_util_xdg.cc(137)] Invalid mime.cache file does not contain null prior to ALIAS_LIST_OFFSET=44
+(electron) 'webContents.canGoBack' is deprecated and will be removed. Please use 'webContents.navigationHistory.canGoBack' instead.
+(electron) 'webContents.canGoForward' is deprecated and will be removed. Please use 'webContents.navigationHistory.canGoForward' instead.
+[260234:0407/121749.631186:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for services.minbrowser.org failed:
+----- Certificate i=0 (CN=services.minbrowser.org) -----
+ERROR: Time is after notAfter
+
+
+[260285:0407/121749.631494:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -201
+[260282:0407/121929.018404:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+(node:260234) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 closed listeners added to [BrowserWindow]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `min --trace-warnings ...` to show where the warning was created)

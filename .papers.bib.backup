@@ -1803,6 +1803,18 @@ contributions to snowmelt},
  year = {2014}
 }
 
+@article{venumuddula2024,
+ author = {Venumuddula, Manish and Kirchner, Karl and Chen, Austin and Rood, Richard B. and Gronewold, Andrew D.},
+ doi = {10.1029/2024ea003845},
+ file = {:/home/kessler/docs/papers/venumuddula_et_al_2024_combining-satellite-teleconnection-situ-data.pdf:pdf},
+ journal = {Earth and Space Science},
+ number = {12},
+ title = {Combining Satellite, Teleconnection, and In Situ Data to Improve Understanding of Multi‐Decadal Coastal Ice Cover Dynamics on Earth's Largest Freshwater Lake},
+ url = {https://doi.org/10.1029/2024ea003845},
+ volume = {11},
+ year = {2024}
+}
+
 @article{wang1994,
  author = {Wang, Jia and Mysak, Lawrence A. and Ingram, R. Grant},
  doi = {10.1080/07055900.1994.9649505},

@@ -66,6 +66,7 @@ general:
 - [ ] anderson_et_al_2024_indications-changing-winter-through-lens.pdf
 - [ ] fernandez_et_al_2000_surface-current-measurements-radar-freshwater.pdf
 - [ ] sharma_et_al_2020_increased-winter-drownings-covered-regions.pdf
+- [ ] woolway_and_merchant_2018_intralake-heterogeneity-thermal-responses-climate.pdf
 
 
 non-local:
