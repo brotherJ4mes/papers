@@ -21,6 +21,8 @@ dynamics:
 - [x] kelly_et_al_2024_predicting-surface-oscillations-lake-superior.pdf
 - [ ] sam other swot papers
 - [ ] russell_et_al_2026_sensitivity-circulation-thermal-structure-transient.pdf
+- [ ] boyce_et_al_1989_thermal-structure-circulation-great-lakes.pdf
+
 
 hyperspectral:
 
@@ -46,6 +48,7 @@ RemSens:
 - [ ] stumpf_et_al_2003_determination-water-depth-with-high.pdf
 - [ ] robinson_et_al_2007_global_ocean_data_assimilation_experiment.pdf
 - [ ] mccann_et_al_2024_airborne-system-simultaneous-high-resolution.pdf    
+- [ ] pahlevan_et_al_2017_landsat-remote-sensing-reflectance-products.pdf (greb co-author)
 
 
 general: 
