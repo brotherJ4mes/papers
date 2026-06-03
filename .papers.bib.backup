@@ -232,6 +232,18 @@
  year = {2012}
 }
 
+@article{bandini2020,
+ author = {Bandini, Filippo and Sunding, Tanya Pheiffer and Linde, Johannes and Smith, Ole and Jensen, Inger Klint and Köppl, Christian Josef and Butts, Michael and Bauer-Gottwein, Peter},
+ doi = {10.1016/j.rse.2019.111487},
+ file = {:/home/kessler/docs/papers/bandini_et_al_2020_unmanned-aerial-system-observations-water.pdf:pdf},
+ journal = {Remote Sensing of Environment},
+ pages = {111487},
+ title = {Unmanned Aerial System (UAS) observations of water surface elevation in a small stream: Comparison of radar altimetry, LIDAR and photogrammetry techniques},
+ url = {https://doi.org/10.1016/j.rse.2019.111487},
+ volume = {237},
+ year = {2020}
+}
+
 @article{beletsky1997,
  author = {Beletsky, Dmitry and O’Connor, William P. and Schwab, David J. and Dietrich, David E.},
  doi = {10.1175/1520-0485(1997)027<1197:nsoikw>2.0.co;2},

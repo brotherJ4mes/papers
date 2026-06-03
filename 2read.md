@@ -30,6 +30,7 @@ hyperspectral:
 - [ ] han_et_al_2017_detection-based-improved-similarity-measurement.pdf
 - [ ] han_et_al_2019_hyperspectral-image-classification-based-spectral.pdf
 - [ ] salvatori_et_al_2022_collection-hyperspectral-measurements-snow-covers.pdf
+- [ ] vander-woude_et_al_2019_spatial-temporal-scales-variability-cyanobacteria.pdf
 
 RemSens:
 - [x] grunert_et_al_2025_hyperspectral-approach-retrieving-inherent-optical.pdf 
