@@ -1927,6 +1927,19 @@ contributions to snowmelt},
  year = {2014}
 }
 
+@article{vander-woude2019,
+ author = {Vander Woude, Andrea and Ruberg, Steve and Johengen, Thomas and Miller, Russ and Stuart, Dack},
+ doi = {10.1016/j.jglr.2019.02.006},
+ file = {:/home/kessler/docs/papers/vander-woude_et_al_2019_spatial-temporal-scales-variability-cyanobacteria.pdf:pdf},
+ journal = {Journal of Great Lakes Research},
+ number = {3},
+ pages = {536-546},
+ title = {Spatial and temporal scales of variability of cyanobacteria harmful algal blooms from NOAA GLERL airborne hyperspectral imagery},
+ url = {https://doi.org/10.1016/j.jglr.2019.02.006},
+ volume = {45},
+ year = {2019}
+}
+
 @article{venumuddula2024,
  author = {Venumuddula, Manish and Kirchner, Karl and Chen, Austin and Rood, Richard B. and Gronewold, Andrew D.},
  doi = {10.1029/2024ea003845},

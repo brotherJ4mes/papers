@@ -50,6 +50,7 @@ RemSens:
 - [ ] robinson_et_al_2007_global_ocean_data_assimilation_experiment.pdf
 - [ ] mccann_et_al_2024_airborne-system-simultaneous-high-resolution.pdf    
 - [ ] pahlevan_et_al_2017_landsat-remote-sensing-reflectance-products.pdf (greb co-author)
+- [ ] mondejar_and_tongco_2019_near-infrared-band-landsat-water.pdf
 
 
 general: 
