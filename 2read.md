@@ -33,6 +33,7 @@ hyperspectral:
 - [ ] vander-woude_et_al_2019_spatial-temporal-scales-variability-cyanobacteria.pdf
 
 RemSens:
+- [ ] windle_and_silsbe_2021_evaluation-unoccupied-aircraft-system-remote.pdf
 - [x] grunert_et_al_2025_hyperspectral-approach-retrieving-inherent-optical.pdf 
 - [ ] gordon_2005_normalized-water-leaving-radiance-revisiting.pdf
 - [ ] kalalo_et_al_2025_role-building-community-morality-indah.pdf

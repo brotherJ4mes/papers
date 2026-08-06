@@ -1040,6 +1040,19 @@ contributions to snowmelt},
  year = {2026}
 }
 
+@article{klatt2021,
+ author = {Klatt, J. M. and Chennu, A. and Arbic, B. K. and Biddanda, B. A. and Dick, G. J.},
+ doi = {10.1038/s41561-021-00784-3},
+ file = {:/home/kessler/docs/papers/klatt_et_al_2021_possible-link-between-earths-rotation.pdf:pdf},
+ journal = {Nature Geoscience},
+ number = {8},
+ pages = {564-570},
+ title = {Possible link between Earth’s rotation rate and oxygenation},
+ url = {https://doi.org/10.1038/s41561-021-00784-3},
+ volume = {14},
+ year = {2021}
+}
+
 @article{kunz2024,
  author = {Kunz, Luca and Griesel, Alexa and Eden, Carsten and Duran, Rodrigo and Sainte-Rose, Bruno},
  doi = {10.5194/os-20-1611-2024},
@@ -1354,6 +1367,18 @@ contributions to snowmelt},
  year = {2012}
 }
 
+@article{mondejar2019,
+ author = {Mondejar, Jeremy P. and Tongco, Alejandro F.},
+ doi = {10.1186/s42834-019-0016-5},
+ file = {:/home/kessler/docs/papers/mondejar_and_tongco_2019_near-infrared-band-landsat-water.pdf:pdf},
+ journal = {Sustainable Environment Research},
+ number = {1},
+ title = {Near infrared band of Landsat 8 as water index: a case study around Cordova and Lapu-Lapu City, Cebu, Philippines},
+ url = {https://doi.org/10.1186/s42834-019-0016-5},
+ volume = {29},
+ year = {2019}
+}
+
 @article{muhadi2020,
  author = {Muhadi, Nur Atirah and Abdullah, Ahmad Fikri and Bejo, Siti Khairunniza and Mahadi, Muhammad Razif and Mijic, Ana},
  doi = {10.3390/rs12142308},
@@ -1440,6 +1465,18 @@ contributions to snowmelt},
  url = {https://doi.org/10.51843/measure.13.1.6},
  volume = {13},
  year = {2021}
+}
+
+@article{pereira2026,
+ author = {Pereira, Kaitlin and Anderson, Eric J. and Kessler, James and Fujisaki‐Manome, Ayumi},
+ doi = {10.1029/2025wr041518},
+ file = {:/home/kessler/docs/papers/pereira_et_al_2026_integrating-analyses-varying-floe-size.pdf:pdf},
+ journal = {Water Resources Research},
+ number = {7},
+ title = {Integrating Ice Analyses and Varying Floe Size Parameterization Into Great Lakes Ice Prediction},
+ url = {https://doi.org/10.1029/2025wr041518},
+ volume = {62},
+ year = {2026}
 }
 
 @article{persson2018,
@@ -2080,6 +2117,32 @@ contributions to snowmelt},
  url = {https://doi.org/10.1175/mwr-d-12-00038.1},
  volume = {141},
  year = {2013}
+}
+
+@article{wynne2006,
+ author = {Wynne, Timothy T. and Stumpf, Richard P. and Richardson, Alec G.},
+ doi = {10.1016/j.csr.2006.08.003},
+ file = {:/home/kessler/docs/papers/wynne_et_al_2006_discerning-resuspended-chlorophyll-concentrations-from.pdf:pdf},
+ journal = {Continental Shelf Research},
+ number = {20},
+ pages = {2583-2597},
+ title = {Discerning resuspended chlorophyll concentrations from ocean color satellite imagery},
+ url = {https://doi.org/10.1016/j.csr.2006.08.003},
+ volume = {26},
+ year = {2006}
+}
+
+@article{wynne2008,
+ author = {Wynne, T. T. and Stumpf, R. P. and Tomlinson, M. C. and Warner, R. A. and Tester, P. A. and Dyble, J. and Fahnenstiel, G. L.},
+ doi = {10.1080/01431160802007640},
+ file = {:/home/kessler/docs/papers/wynne_et_al_2008_relating-spectral-shape-cyanobacterial-blooms.pdf:pdf},
+ journal = {International Journal of Remote Sensing},
+ number = {12},
+ pages = {3665-3672},
+ title = {Relating spectral shape to cyanobacterial blooms in the Laurentian Great Lakes},
+ url = {https://doi.org/10.1080/01431160802007640},
+ volume = {29},
+ year = {2008}
 }
 
 @article{wynne2010,
