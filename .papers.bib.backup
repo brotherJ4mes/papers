@@ -2093,6 +2093,17 @@ contributions to snowmelt},
  year = {2009}
 }
 
+@article{windle2021,
+ author = {Windle, Anna E. and Silsbe, Greg M.},
+ doi = {10.3389/fenvs.2021.674247},
+ file = {:/home/kessler/docs/papers/windle_and_silsbe_2021_evaluation-unoccupied-aircraft-system-remote.pdf:pdf},
+ journal = {Frontiers in Environmental Science},
+ title = {Evaluation of Unoccupied Aircraft System (UAS) Remote Sensing Reflectance Retrievals for Water Quality Monitoring in Coastal Waters},
+ url = {https://doi.org/10.3389/fenvs.2021.674247},
+ volume = {9},
+ year = {2021}
+}
+
 @article{woolway2018,
  author = {Woolway, R. Iestyn and Merchant, Christopher J.},
  doi = {10.1002/2017jd027661},

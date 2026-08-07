@@ -14,6 +14,7 @@ ice:
 - [ ] maksym (unknown_10-1146-annurev-marine-010816.pdf)
 - [ ] ozersky_et_al_2021_changing-face-winter-lessons-questions.pdf
 - [ ] kwok_et_al_2019_surface-height-freeboard-arctic-ocean.pdf
+- [ ] meng_et_al_2025_drone-borne-system-lake-river.pdf
 
 
 dynamics:
