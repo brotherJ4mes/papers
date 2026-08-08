@@ -78,3 +78,14 @@ general:
 
 non-local:
 - [ ] Seeing the Invisible Present and Place: From Years to Centuries with Lake Ice from Wisconsin to the Northern Hemisphere
+
+
+hyperIce
+- [ ] huang_et_al_2024_extraction-remote-sensing-imagery-algorithms.pdf
+- [ ] yuan_et_al_2017_towards-semi-empirical-model-thickness.pdf
+- [ ] han_et_al_2021_hyperspectral-image-classification-based-spectral.pdf
+- [ ] zhang_et_al_2025_unet-very-high-resolution-optimized.pdf
+- [ ] stofa_et_al_2025_recent-developments-artificial-intelligence-methods.pdf
+- [ ] makynen_et_al_2013_accuracy-thin-thickness-retrieval-using.pdf
+- [ ] kang_et_al_2022_decoding-partial-pretrained-networks-segmentation.pdf
+- [ ] dowden_et_al_2021_classification-deep-neural-network-semantic.pdf

@@ -1,11 +1,16 @@
+THIS IS A COPY OF THE FILE ACTUALLY USED!
+for first setup copy it to ~/.local/config and then change two paths:
+bibtex
+filedir
+
 {
-  "absolute_paths": true,
+  "absolute_paths": false,
   "backup_files": false,
-  "bibtex": "/home/kessler/docs/papers/papers.bib",
+  "bibtex": "~/papers.bib",
   "editor": null,
-  "filesdir": "/home/kessler/docs/papers",
+  "filesdir": "~/docs/papers",
   "git": false,
-  "gitdir": "/home/kessler/.local/share/papers/backups/home-kessler-docs-papers-papers",
+  "gitdir": "/do/not/use/backup",
   "gitlfs": false,
   "keyformat": {
     "author_num": 1,
