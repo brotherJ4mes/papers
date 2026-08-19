@@ -28,9 +28,6 @@ dynamics:
 hyperspectral:
 
 - [ ] bhargava_et_al_2024_hyperspectral-imaging-applications-review.pdf
-- [ ] han_et_al_2017_detection-based-improved-similarity-measurement.pdf
-- [ ] han_et_al_2019_hyperspectral-image-classification-based-spectral.pdf
-- [ ] salvatori_et_al_2022_collection-hyperspectral-measurements-snow-covers.pdf
 - [ ] vander-woude_et_al_2019_spatial-temporal-scales-variability-cyanobacteria.pdf
 
 RemSens:
@@ -80,12 +77,19 @@ non-local:
 - [ ] Seeing the Invisible Present and Place: From Years to Centuries with Lake Ice from Wisconsin to the Northern Hemisphere
 
 
-hyperIce
-- [ ] huang_et_al_2024_extraction-remote-sensing-imagery-algorithms.pdf
-- [ ] yuan_et_al_2017_towards-semi-empirical-model-thickness.pdf
-- [ ] han_et_al_2021_hyperspectral-image-classification-based-spectral.pdf
-- [ ] zhang_et_al_2025_unet-very-high-resolution-optimized.pdf
-- [ ] stofa_et_al_2025_recent-developments-artificial-intelligence-methods.pdf
-- [ ] makynen_et_al_2013_accuracy-thin-thickness-retrieval-using.pdf
-- [ ] kang_et_al_2022_decoding-partial-pretrained-networks-segmentation.pdf
-- [ ] dowden_et_al_2021_classification-deep-neural-network-semantic.pdf
+GLOS hyperIce
+  - [ ] yuan_et_al_2017_towards-semi-empirical-model-thickness.pdf
+  - [ ] han_et_al_2021_hyperspectral-image-classification-based-spectral.pdf
+  - [ ] han_et_al_2017_detection-based-improved-similarity-measurement.pdf
+  - [ ] han_et_al_2019_hyperspectral-image-classification-based-spectral.pdf
+  - [ ] salvatori_et_al_2022_collection-hyperspectral-measurements-snow-covers.pdf
+  
+  optical 
+  - [ ] kang_et_al_2022_decoding-partial-pretrained-networks-segmentation.pdf
+  - [ ] zhang_et_al_2025_unet-very-high-resolution-optimized.pdf
+  - [ ] dowden_et_al_2021_classification-deep-neural-network-semantic.pdf
+  - [ ] makynen_et_al_2013_accuracy-thin-thickness-retrieval-using.pdf
+
+survey:
+  - [ ] stofa_et_al_2025_recent-developments-artificial-intelligence-methods.pdf
+  - [ ] huang_et_al_2024_extraction-remote-sensing-imagery-algorithms.pdf
