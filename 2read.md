@@ -9,12 +9,14 @@ ice:
 - [ ] magnuson_et_al_2000_historical-trends-lake-river-cover.pdf
 - [x] sharma_et_al_2019_widespread-loss-lake-around-northern.pdf
 - [ ] culpepper_et_al_2025_hundred-fundamental-open-questions-integrate.pdf
-- [ ] peter_et_al_2025_novel-algorithm-water-discrimination-large.pdf
+- [x] peter_et_al_2025_novel-algorithm-water-discrimination-large.pdf
 - [x] anderson_and_gronewold_2025_does-cover-evaporation-large-lakes.pdf
 - [ ] maksym (unknown_10-1146-annurev-marine-010816.pdf)
-- [ ] ozersky_et_al_2021_changing-face-winter-lessons-questions.pdf
+- [x] ozersky_et_al_2021_changing-face-winter-lessons-questions.pdf
 - [ ] kwok_et_al_2019_surface-height-freeboard-arctic-ocean.pdf
 - [ ] meng_et_al_2025_drone-borne-system-lake-river.pdf
+- [ ] yang_et_al_2021_thermal-categorization-covered-lakes.pdf
+
 
 
 dynamics:
@@ -23,6 +25,7 @@ dynamics:
 - [ ] sam other swot papers
 - [ ] russell_et_al_2026_sensitivity-circulation-thermal-structure-transient.pdf
 - [ ] boyce_et_al_1989_thermal-structure-circulation-great-lakes.pdf
+- [ ] cannon_et_al_2021_characterizing-seasonal-variability-hypolimnetic-mixing.pdf
 
 
 hyperspectral:
