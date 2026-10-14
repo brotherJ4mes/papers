@@ -346,6 +346,18 @@
  year = {1989}
 }
 
+@article{buckley2026,
+ author = {Buckley, Ellen M. and Kacimi, Sahra and Webster, Melinda and Harrison, Siddarth and Saylam, Kutalmis and Kurtz, Nathan T. and Tilling, Rachel L.},
+ doi = {10.1029/2026gl124704},
+ file = {:/home/kessler/docs/papers/buckley_et_al_2026_first-assessment-icesat-summer-freeboard.pdf:pdf},
+ journal = {Geophysical Research Letters},
+ number = {15},
+ title = {First Assessment of ICESat‐2 Summer Sea Ice Freeboard With Airborne Validation},
+ url = {https://doi.org/10.1029/2026gl124704},
+ volume = {53},
+ year = {2026}
+}
+
 @article{cannon2019,
  author = {Cannon, D. J. and Troy, C. D. and Liao, Q. and Bootsma, H. A.},
  doi = {10.1029/2019gl082916},
@@ -357,6 +369,18 @@
  url = {https://doi.org/10.1029/2019gl082916},
  volume = {46},
  year = {2019}
+}
+
+@article{cannon2021,
+ author = {Cannon, David James and Troy, Cary and Bootsma, Harvey and Liao, Qian and MacLellan‐Hurd, Rae‐Ann},
+ doi = {10.1029/2021jc017533},
+ file = {:/home/kessler/docs/papers/cannon_et_al_2021_characterizing-seasonal-variability-hypolimnetic-mixing.pdf:pdf},
+ journal = {Journal of Geophysical Research: Oceans},
+ number = {11},
+ title = {Characterizing the Seasonal Variability of Hypolimnetic Mixing in a Large, Deep Lake},
+ url = {https://doi.org/10.1029/2021jc017533},
+ volume = {126},
+ year = {2021}
 }
 
 @article{cannon2026,

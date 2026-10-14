@@ -53,6 +53,8 @@ RemSens:
 - [ ] mccann_et_al_2024_airborne-system-simultaneous-high-resolution.pdf    
 - [ ] pahlevan_et_al_2017_landsat-remote-sensing-reflectance-products.pdf (greb co-author)
 - [ ] mondejar_and_tongco_2019_near-infrared-band-landsat-water.pdf
+- [ ] farrell_et_al_2020_mapping-surface-topography-high-fidelity.pdf
+- [ ] buckley_et_al_2026_first-assessment-icesat-summer-freeboard.pdf
 
 
 general: 
